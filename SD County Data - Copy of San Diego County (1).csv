@@ -1,0 +1,1330 @@
+event,price,pricePerSquareFoot,city,state,yearBuilt,streetAddress,zipcode,currency,livingArea,bathrooms,bedrooms,parking,garageSpaces,hasGarage,levels,pool,spa,isNewConstruction,homeType,county
+Listed for sale,1150000,648,La Jolla,CA,1975,8874 Caminito Primavera,92037,USD,1776,3,4,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,724999,657,La Jolla,CA,1979,8720 Villa La Jolla Dr UNIT 120,92037,USD,1104,2,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,2450000,908,La Jolla,CA,1991,1407 Caminito Faro,92037,USD,2699,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1599000,767,La Jolla,CA,1980,2459 Ardath Rd,92037,USD,2086,4,3,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3298000,723,La Jolla,CA,2004,5410 La Jolla Mesa Dr,92037,USD,4564,5,5,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3495000,1610,La Jolla,CA,1939,5606 Dolphin Pl,92037,USD,2171,4,3,1,1,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1095000,748,La Jolla,CA,1973,2500 Torrey Pines Rd UNIT 502,92037,USD,1464,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,4900000,1107,La Jolla,CA,2005,1178 Virginia Way,92037,USD,4428,5,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,637,La Jolla,CA,1970,2510 Torrey Pines Rd UNIT 407,92037,USD,941,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,980000,572,La Jolla,CA,1980,3195 Morning Way,92037,USD,1714,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,489000,708,La Jolla,CA,1972,8529 Villa La Jolla Dr APT D,92037,USD,691,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1299000,1309,La Jolla,CA,1970,457 Coast Blvd UNIT 503,92037,USD,992,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,2150000,1224,La Jolla,CA,1962,5515 Candlelight Dr,92037,USD,1757,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,828,La Jolla,CA,1961,2222 Bahia Dr,92037,USD,1812,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2695000,1014,La Jolla,CA,1968,6030 Bellevue Ave,92037,USD,2659,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1825000,672,La Jolla,CA,1998,6043 Oakgate Row,92037,USD,2716,4,4,1,2,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,855,La Jolla,CA,1992,5726 La Jolla Blvd UNIT 201,92037,USD,1140,2,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1395000,656,La Jolla,CA,1980,6509 Caminito Catalan,92037,USD,2128,3,3,1,2,1,Multi/Split,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1150000,795,La Jolla,CA,1992,5439 1/2 La Jolla Blvd,92037,USD,1446,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,2600000,1112,La Jolla,CA,1947,560 Fern Gln,92037,USD,2339,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,655000,606,San Diego,CA,1987,3979 Nobel Dr UNIT 320,92122,USD,1080,2,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,995000,0,San Diego,CA,1954,3253-55 Jemez Dr,92117,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,516100,611,San Diego,CA,1980,8308 Regents Rd UNIT 1B,92122,USD,844,1,2,0,0,0,0,1,1,0,CONDO,San Diego County
+Listed for sale,799000,573,San Diego,CA,1987,7622 Palmilla Dr UNIT 78,92122,USD,1394,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1495000,557,San Diego,CA,2000,10816 Vereda Sol Del Dios,92130,USD,2683,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999900,543,San Diego,CA,2011,2020 Hornblend St,92109,USD,1841,3,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1450000,430,Borrego Springs,CA,2006,1962 Rams Hill Dr,92004,USD,3370,3,4,1,4,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,319,Borrego Springs,CA,2006,206 Verbena Dr,92004,USD,2116,2,2,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,325000,206,Borrego Springs,CA,2000,2817 Back 9 Dr,92004,USD,1580,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,409760,260,Borrego springs,CA,2021,Borrego Springs Rd,92004,USD,1576,2,2,1,2,1,One,0,1,1,SINGLE_FAMILY,San Diego County
+Listed for sale,471640,255,Borrego Springs,CA,2021,Borrego Springs Rd LOT 73,92004,USD,1848,2,4,1,2,1,One,0,1,1,SINGLE_FAMILY,San Diego County
+Listed for sale,595000,286,Borrego Springs,CA,2009,1435 De Anza Dr,92004,USD,2078,4,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,235000,226,Borrego Springs,CA,1990,3083 Double O Rd,92004,USD,1040,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,450000,258,Borrego Springs,CA,1984,3210 Country Club Dr,92004,USD,1746,3,2,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,989000,629,San Diego,CA,2005,3812 Park Blvd UNIT 506,92103,USD,1572,3,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,499000,612,San Diego,CA,1981,4141 Alabama St APT 3,92104,USD,816,2,2,1,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,579900,475,San Diego,CA,2006,801 Ash St UNIT 503,92101,USD,1221,2,2,1,1,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,989000,739,San Diego,CA,1928,4829 Oregon St,92116,USD,1338,1,3,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,541,San Diego,CA,1973,3535 1st Ave UNIT 7A,92103,USD,1470,2,2,1,1,1,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,539000,577,San Diego,CA,1971,3266 1st Ave UNIT 33,92103,USD,934,2,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,425000,451,San Diego,CA,1986,2238 River Run Dr UNIT 243,92108,USD,942,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,600000,451,San Diego,CA,1995,640 Camino De La Reina APT 1312,92108,USD,1330,2,3,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,799000,372,San Diego,CA,1962,1982 Whinchat St,92123,USD,2148,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,487,San Diego,CA,1992,2250 Camino De La Reina UNIT 213,92108,USD,1025,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,549900,671,San Diego,CA,1930,3418 Menlo Ave,92105,USD,820,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1250000,0,San Diego,CA,1940,4368 35th St #72,92104,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,725000,690,San Diego,CA,1940,1812 Bancroft St,92102,USD,1051,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399000,590,San Diego,CA,1970,3431 Park Blvd APT 204,92103,USD,676,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,847000,880,San Diego,CA,2001,735 Robinson Ave,92103,USD,962,1,2,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,579000,804,San Diego,CA,1929,4167 Dwight St,92105,USD,720,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,611,San Diego,CA,1992,2770 2nd Ave UNIT 411,92103,USD,1105,2,2,1,2,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,399000,693,San Diego,CA,1960,1740 Upas St APT 24,92103,USD,576,1,1,0,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,480000,571,San Diego,CA,1991,4353 Felton St #1,92104,USD,840,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,775000,1117,San Diego,CA,1927,2437 Monroe Ave,92116,USD,694,1,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,659000,388,San Diego,CA,1980,1455 Cactusridge St,92105,USD,1698,3,3,1,1,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,450000,602,San Diego,CA,1981,4062 Georgia St UNIT 3,92103,USD,748,1,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,499888,492,San Diego,CA,1995,640 Camino De La Reina APT 1307,92108,USD,1017,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1299000,0,San Diego,CA,1906,3141-45 Herman Ave,92104,USD,0,0,0,1,3,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,369000,651,San Diego,CA,1971,4655 Ohio St UNIT 10,92116,USD,567,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,679000,476,San Diego,CA,1953,2051 Ridge View Dr,92105,USD,1426,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679000,408,San Diego,CA,1953,2135 Tulip St,92105,USD,1663,2,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849999,717,San Diego,CA,1927,4370 Cherokee Ave,92104,USD,1186,1,3,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549000,585,San Diego,CA,1986,3727 Richmond St APT 10,92103,USD,938,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,999000,0,San Diego,CA,1940,4617-4619 Kansas St,92116,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,689000,927,San Diego,CA,1924,3655 Wightman St,92104,USD,743,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,998300,787,San Diego,CA,1965,2115 Mission Ave,92116,USD,1269,3,3,1,1,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,995000,953,San Diego,CA,1931,4615 Biona Dr,92116,USD,1044,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,620,San Diego,CA,2019,4211 Utah St UNIT 4,92104,USD,1450,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,974900,578,San Diego,CA,2006,3921 Oregon St,92104,USD,1687,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1025000,0,San Diego,CA,1985,4646 Home Ave,92105,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,840000,579,San Diego,CA,1924,3804 Swift Ave,92104,USD,1451,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1000000,558,San Diego,CA,2007,3804 Herbert St,92103,USD,1793,4,3,1,2,1,Three Or More,0,0,0,TOWNHOUSE,San Diego County
+Listed for sale,349000,549,San Diego,CA,1972,3030 Suncrest Dr UNIT 415,92116,USD,636,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,709000,664,San Diego,CA,1930,4767 Arizona St,92116,USD,1068,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1800000,625,San Diego,CA,1929,4175 Norfolk Ter,92116,USD,2878,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099900,768,San Diego,CA,1904,830 21st St,92102,USD,1433,3,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,752,San Diego,CA,1932,4429 Ohio St,92116,USD,1296,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1390000,753,Oceanside,CA,1947,1214 S Ditmar St,92054,USD,1846,0,0,1,1,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,579000,547,Oceanside,CA,1960,2409 Sarbonne Dr,92054,USD,1058,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1800000,1149,Oceanside,CA,1989,901 S Pacific St UNIT 201,92054,USD,1567,3,3,1,2,1,Three Or More,0,0,0,CONDO,San Diego County
+Listed for sale,599000,490,Oceanside,CA,2005,815 Harbor Cliff Way UNIT 252,92054,USD,1223,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,949000,556,Oceanside,CA,1960,1822 Ivy Rd,92054,USD,1708,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,869999,617,Carlsbad,CA,1979,2535 Jefferson St APT 6,92008,USD,1410,2,3,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,719500,636,Oceanside,CA,1960,3255 Roberta Ln,92054,USD,1132,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,630000,548,Oceanside,CA,2006,795 Harbor Cliff Way UNIT 203,92054,USD,1149,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,999000,640,Oceanside,CA,2003,266 Neptune Way,92054,USD,1562,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,739900,580,Oceanside,CA,1960,312 Fowles St,92054,USD,1275,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,0,0,Oceanside,CA,2021,Coming Soon Plan,92054,USD,0,0,0,0,0,0,0,0,0,1,SINGLE_FAMILY,San Diego County
+Listed for sale,1199000,1111,Oceanside,CA,1948,1814 S Ditmar St,92054,USD,1079,1,3,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,905,Oceanside,CA,1985,834 Tait St APT 5,92054,USD,1216,3,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1195000,1110,Oceanside,CA,1961,1511 Lucky St,92054,USD,1077,2,3,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2800000,1203,Oceanside,CA,2016,700 S The Strand #204,92054,USD,2327,4,3,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,3800000,0,Oceanside,CA,1947,801-801 3rd St,92054,USD,0,0,0,1,3,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1296000,534,Oceanside,CA,1950,2105 Loquat Pl,92054,USD,2425,3,4,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,455,Oceanside,CA,2005,855 Harbor Cliff Way UNIT 318,92054,USD,1528,4,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1150000,738,Carlsbad,CA,2004,2776 Carlsbad Blvd UNIT 103,92008,USD,1558,3,3,1,2,1,Multi/Split,0,0,0,TOWNHOUSE,San Diego County
+Listed for sale,1690000,616,Carlsbad,CA,2008,6750 Limonite Ct,92009,USD,2745,5,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1249900,980,Encinitas,CA,2014,1675 Shorebreak Way,92024,USD,1276,3,2,1,2,1,Two,0,0,0,TOWNHOUSE,San Diego County
+Listed for sale,1700000,511,Carlsbad,CA,2000,2154 Vista La Nisa,92009,USD,3328,5,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1899000,453,Carlsbad,CA,2006,6796 Malachite Pl,92009,USD,4193,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2388000,654,Carlsbad,CA,1998,7337 Melodia Ter,92011,USD,3649,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,621,Carlsbad,CA,2000,1308 Phlox Ct,92011,USD,1207,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1825000,536,Carlsbad,CA,2001,8060 Corte Sasafras,92009,USD,3408,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1749000,617,Carlsbad,CA,1998,6555 Robinea Dr,92011,USD,2834,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1399000,585,Encinitas,CA,1989,1426 Willowgreen Ct,92024,USD,2393,3,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4875000,1284,Encinitas,CA,2008,1635 Gascony Rd,92024,USD,3796,4,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,739900,562,Carlsbad,CA,2001,6377 Alexandri Cir,92011,USD,1316,2,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,695000,452,Carlsbad,CA,1975,2319 Caringa Way UNIT 58,92009,USD,1536,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,899000,403,Carlsbad,CA,1981,2430 Badajoz Pl APT B,92009,USD,2229,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,789000,576,Carlsbad,CA,1978,2580 Luciernaga St,92009,USD,1369,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,531,Carlsbad,CA,1975,7559 Gibraltar St UNIT 15,92009,USD,1127,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,2045000,488,Carlsbad,CA,2005,6783 Onyx Pl,92009,USD,4193,5,5,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,719000,489,Carlsbad,CA,1985,6645 Corte Maria,92009,USD,1471,2,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,609900,508,Carlsbad,CA,1990,7787 Caminito Monarca UNIT 105,92009,USD,1200,3,2,1,1,1,Three Or More,0,0,0,CONDO,San Diego County
+Listed for sale,825000,550,Carlsbad,CA,2013,1678 Fairlead Ave,92011,USD,1500,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1325000,565,Carlsbad,CA,1995,2912 Avenida Valera,92009,USD,2345,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,828000,420,Carlsbad,CA,1968,7039 Estrella De Mar Rd #57,92009,USD,1972,3,3,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1395000,456,Carlsbad,CA,2005,2252 Tigereye Pl,92009,USD,3060,4,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,449,Carlsbad,CA,1986,6543 Corte Montecito,92009,USD,1505,3,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1199800,476,Carlsbad,CA,1978,2416 Sacada Cir APT B,92009,USD,2521,3,2,1,2,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,859000,482,Carlsbad,CA,1968,7053 Estrella De Mar Rd #71,92009,USD,1783,2,3,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,600000,388,Carlsbad,CA,1982,1955 Swallow Ln,92009,USD,1547,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,2850000,749,Encinitas,CA,1990,1368 Hymettus Ave,92024,USD,3806,4,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1975000,541,Carlsbad,CA,1998,1017 Bewicks Ct,92011,USD,3649,4,5,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2499000,595,Carlsbad,CA,2005,7051 Heron Cir,92011,USD,4203,5,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2099000,540,Carlsbad,CA,2001,6602 Petunia Pl,92011,USD,3889,5,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1575000,494,Carlsbad,CA,2001,6456 Goldenbush Dr,92011,USD,3188,4,5,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899900,539,Carlsbad,CA,2019,6018 Colt Pl #104,92009,USD,1670,4,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1295000,736,Carlsbad,CA,1996,6853 Adolphia Dr,92011,USD,1760,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,2399000,526,Carlsbad,CA,1998,974 Merganser Ln,92011,USD,4564,6,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1995000,947,Encinitas,CA,1987,260 Hygeia Ct,92024,USD,2107,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,939000,716,San Diego,CA,1939,2930 Nutmeg St,92104,USD,1312,1,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,986900,902,San Diego,CA,1958,3030 Nile St,92104,USD,1094,2,3,1,2,0,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,594,San Diego,CA,1992,4076 Oregon St UNIT 3,92104,USD,840,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,925000,0,San Diego,CA,1923,3560 Polk Ave,92104,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,715000,536,San Diego,CA,2021,4176 Hamilton St,92104,USD,1334,2,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1189000,926,San Diego,CA,1925,3570 Louisiana St,92104,USD,1284,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,1191,San Diego,CA,1924,3679 Landis St,92104,USD,528,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,0,San Diego,CA,1959,1757-59 Pentuckett Ave,92104,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1800000,567,San Diego,CA,1910,2915 30th St,92104,USD,3173,3,6,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,569000,556,San Diego,CA,2006,3950 Ohio St UNIT 229,92104,USD,1023,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,829900,775,San Diego,CA,1938,3414 Cherokee Ave,92104,USD,1071,1,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1325000,685,San Diego,CA,1941,2736 Felton St,92104,USD,1933,2,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1250000,693,San Diego,CA,1930,3583 Utah St,92104,USD,1803,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1399000,1070,San Diego,CA,1921,2047 29th St,92104,USD,1308,3,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999000,502,San Diego,CA,1922,2328 Wightman St,92104,USD,1989,3,5,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399000,587,San Diego,CA,1976,1907 Robinson Ave UNIT 311,92104,USD,680,1,1,1,0,0,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1350000,832,San Diego,CA,1945,2509 34th St,92104,USD,1622,4,3,1,0,0,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1295000,638,San Diego,CA,2009,530 Otsego Dr,92103,USD,2031,3,2,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,0,San Diego,CA,1958,1774-1776 Torrance St,92103,USD,0,0,0,0,0,0,Three Or More,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1499000,0,San Diego,CA,1940,3596-98 Curlew St,92103,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1995000,1663,Coronado,CA,1970,1422 6th St,92118,USD,1200,2,3,1,2,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,769,San Diego,CA,2019,1388 Kettner Blvd UNIT 1405,92101,USD,1170,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,475000,694,San Diego,CA,2005,120 Island Ave UNIT 329,92101,USD,684,1,0,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,789000,690,San Diego,CA,2007,575 6th Ave UNIT 606,92101,USD,1144,2,2,1,2,1,One,1,1,0,CONDO,San Diego County
+Listed for sale,1900000,780,San Diego,CA,2003,1829 Torrance St,92103,USD,2435,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,449900,621,San Diego,CA,2005,777 6th Ave UNIT 207,92101,USD,725,1,1,1,1,1,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,825000,692,Coronado,CA,1987,911 E Avenue 202,92118,USD,1193,2,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1548000,635,San Diego,CA,1941,3111 Malaga St,92110,USD,2437,4,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1299999,817,San Diego,CA,1961,5033 Gasconade Ave,92110,USD,1592,3,4,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,428,San Diego,CA,1965,4216 Loma Riviera Ln,92110,USD,1400,2,3,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1325000,864,San Diego,CA,1929,3130 Homer St,92106,USD,1534,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,395000,358,San Diego,CA,1976,4285 Asher St UNIT 28,92110,USD,1102,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1199900,1000,San Diego,CA,1949,4275 Ashton St,92110,USD,1200,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2099000,860,San Diego,CA,1952,3566 Carleton St,92106,USD,2440,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399900,533,San Diego,CA,1985,1205 Colusa St UNIT 11,92110,USD,750,1,2,1,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,389000,554,San Diego,CA,1969,2662 Worden St UNIT 33,92110,USD,702,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,3200000,977,San Diego,CA,2006,2283 Whitman St,92103,USD,3277,4,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,429900,487,San Diego,CA,1979,6757 Friars Rd UNIT 35,92108,USD,882,2,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1990000,0,San Diego,CA,1952,2282-84 Congress St,92110,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1295000,939,San Diego,CA,1947,1830 Mendota St,92106,USD,1379,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1200000,991,San Diego,CA,1954,4037 Tennyson St,92107,USD,1211,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,725000,558,San Diego,CA,1979,6625 Canyon Rim Row UNIT 176,92111,USD,1300,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,549000,698,San Diego,CA,2004,801 W Hawthorn St UNIT 208,92101,USD,786,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,529000,476,San Diego,CA,1986,5845 Friars Rd APT 1207,92110,USD,1112,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,689000,919,San Diego,CA,1942,6753 N Elman St,92111,USD,750,1,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,740000,529,San Diego,CA,1974,3217 Columbia St APT 14,92103,USD,1400,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1199900,750,San Diego,CA,2009,1325 Pacific Hwy UNIT 901,92101,USD,1600,3,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1849000,652,San Diego,CA,2004,2920 W Bainbridge Rd,92106,USD,2838,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099900,1113,San Diego,CA,1948,2210 Soto St,92107,USD,988,1,2,0,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,446,Chula Vista,CA,1959,16 Shasta St,91910,USD,1680,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999900,262,Chula Vista,CA,1966,169 Via De Laurencio,91910,USD,3823,3,6,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,521,San Diego,CA,1971,2560 Deauville St,92139,USD,1248,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,467,San Diego,CA,1961,6442 Garber Ave,92139,USD,1392,2,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,405000,468,San Diego,CA,1980,6890 Quebec Ct UNIT 1,92139,USD,866,1,2,1,0,0,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,599000,521,Chula Vista,CA,1942,123 5th Ave,91910,USD,1149,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,639900,452,San Diego,CA,1958,7404 Skyline Dr,92114,USD,1415,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,525000,492,San Diego,CA,1951,5477 San Onofre Ter,92114,USD,1066,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599900,368,National City,CA,2006,4102 Arroyo Way,91950,USD,1630,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,559000,407,San Diego,CA,1980,6713 Parkside Ave,92139,USD,1373,2,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,753,Chula Vista,CA,1950,603 Carla Ave,91910,USD,796,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,403,San Diego,CA,1959,2441 Calle Tortuosa,92139,USD,1488,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,359,Chula Vista,CA,1984,430 Smoky Cir,91910,USD,2225,3,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,779000,328,San Diego,CA,1927,4230 Keeler Ave,92113,USD,2373,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,535000,525,National City,CA,2005,620 E 4th St,91950,USD,1020,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599999,333,San Diego,CA,1991,7530 Woodbine Way,92114,USD,1804,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,354,Chula Vista,CA,1969,610 Melrose Ave,91910,USD,1964,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,402,San Diego,CA,1961,7404 Gatewood Ln,92114,USD,1680,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3895000,268,Chula Vista,CA,1987,271 Hilltop Dr,91910,USD,14560,15,13,1,0,0,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,539999,290,San Diego,CA,1949,5946 Albemarle St,92139,USD,1862,2,3,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,385000,386,Chula Vista,CA,1991,575 E St UNIT 9,91910,USD,997,2,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,275000,422,San Diego,CA,1988,3780 National Ave APT 4,92113,USD,652,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,2200000,1715,San Diego,CA,1950,4445 Coronado Ave,92107,USD,1283,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,639000,702,San Diego,CA,1967,5015 Cape May Ave UNIT 104,92107,USD,910,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,2300000,728,San Diego,CA,1980,3701 Cedarbrae Ln,92106,USD,3160,5,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1049000,1234,San Diego,CA,1959,1743 Ocean Front St,92107,USD,850,2,2,1,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,1950000,678,San Diego,CA,1987,3716 Southernwood Way,92106,USD,2878,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2100000,0,San Diego,CA,1959,5066-68 Brighton Ave,92107,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,14950000,0,San Diego,CA,1978,3958-3958 Bayside Walk #3962,92109,USD,0,0,0,0,0,0,Three Or More,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,4200000,815,San Diego,CA,2010,4351 Monaco St,92107,USD,5155,5,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3199900,847,San Diego,CA,2021,1059 Alexandria Dr,92107,USD,3778,5,5,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1975000,1028,San Diego,CA,1942,980 Scott St,92106,USD,1921,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1049000,601,San Diego,CA,2019,3030 Jarvis St UNIT 6,92106,USD,1746,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1449000,999,San Diego,CA,1988,740 Asbury Ct #2,92109,USD,1450,2,3,1,1,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,1299000,822,San Diego,CA,1988,739 San Luis Rey Pl,92109,USD,1580,3,3,1,0,0,Two,0,0,0,CONDO,San Diego County
+Listed for sale,1888000,999,San Diego,CA,1950,3615 Plumosa Dr,92106,USD,1889,4,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,678000,591,San Diego,CA,1999,10292 Wateridge Cir UNIT 256,92121,USD,1148,3,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,749000,686,San Diego,CA,1996,5516 Renaissance Ave #1,92122,USD,1092,2,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,425000,604,San Diego,CA,1987,7575 Charmant Dr #1004,92122,USD,704,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,539000,636,San Diego,CA,1988,7120 Shoreline Dr UNIT 2208,92122,USD,848,2,2,1,1,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,1295000,774,San Diego,CA,1968,6527 Mercer St,92122,USD,1674,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,595000,553,San Diego,CA,1981,8338 Regents Rd UNIT 1S,92122,USD,1075,2,2,1,3,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,629000,573,San Diego,CA,1985,4435 Nobel Dr UNIT 14,92122,USD,1097,2,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,659000,610,San Diego,CA,1972,7943 Camino Kiosco,92122,USD,1080,2,3,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,799000,725,La Jolla,CA,2000,9293 Regents Rd #C304,92037,USD,1102,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,3795000,1501,La Jolla,CA,2004,7964 Prospect Pl,92037,USD,2528,4,4,1,2,1,Three Or More,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2499000,648,La Jolla,CA,1987,2751 Saint Laurent Pl,92037,USD,3859,5,4,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,929000,540,San Diego,CA,1991,7112 Calabria Ct UNIT B,92122,USD,1720,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1390000,534,La Jolla,CA,1989,9719 Keeneland Row,92037,USD,2601,3,4,1,2,1,Two,0,0,0,CONDO,San Diego County
+Listed for sale,900000,521,San Diego,CA,1998,9408 Capricorn Way,92126,USD,1726,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,634300,508,San Diego,CA,1994,11245 Affinity Ct UNIT 86,92131,USD,1248,2,3,1,2,1,0,1,1,0,CONDO,San Diego County
+Listed for sale,629000,564,San Diego,CA,1992,10020 Scripps Vista Way UNIT 67,92131,USD,1116,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,855000,493,San Diego,CA,1999,11673 Compass Point Dr N UNIT 3,92126,USD,1733,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,939000,557,San Diego,CA,1976,11709 Giles Way,92126,USD,1686,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1799000,459,San Diego,CA,2016,8220 Beacons Ct,92129,USD,3918,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,548,San Diego,CA,1990,8030 Hagans Cir,92126,USD,1641,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1849000,454,San Diego,CA,2003,14457 Caminito Lazanja,92127,USD,4077,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,979000,568,San Diego,CA,2011,7940 Jake View Ln,92129,USD,1725,3,3,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,523,San Diego,CA,1995,11555 Westview Pkwy,92126,USD,1433,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,599000,633,San Diego,CA,1998,10950 Ivy Hill Dr UNIT 1,92131,USD,946,2,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1245000,536,San Diego,CA,1992,9584 Oviedo St,92129,USD,2323,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1069900,462,San Diego,CA,2003,13226 Corte Bella Vis,92129,USD,2316,4,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1725000,531,San Diego,CA,2000,11327 Luxembourg Way,92131,USD,3247,3,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629999,466,San Diego,CA,1992,9930 Scripps Vista Way UNIT 148,92131,USD,1352,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,550000,593,San Diego,CA,1987,9489 Fairgrove Ln UNIT 104,92129,USD,927,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,875000,608,San Diego,CA,1987,8652 Rideabout Ln,92129,USD,1439,3,3,1,2,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1699000,499,San Diego,CA,2002,8218 Torrey Gardens Pl,92129,USD,3408,5,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,958800,570,San Diego,CA,1983,12990 La Tortola,92129,USD,1683,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1010000,480,San Diego,CA,1990,11659 River Rim Rd,92126,USD,2102,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,535000,524,San Diego,CA,1998,10756 Sabre Hill Dr UNIT 167,92128,USD,1021,2,2,0,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,849999,672,San Diego,CA,1995,10705 Ballystock Ct,92131,USD,1264,3,2,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,710000,525,San Diego,CA,1992,10070 Scripps Vista Way UNIT 15,92131,USD,1352,3,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,499000,538,San Diego,CA,1986,9418 Twin Trails Dr UNIT 104,92129,USD,927,2,2,0,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,450000,600,San Diego,CA,1992,9929 Azuaga St UNIT 103,92129,USD,750,1,2,1,0,0,One,1,1,0,CONDO,San Diego County
+Listed for sale,1000000,511,San Diego,CA,1974,12477 Via Cabezon,92129,USD,1958,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,479000,441,San Diego,CA,1989,9965 Scripps Westview Way UNIT 37,92131,USD,1086,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,900000,538,San Diego,CA,1971,8234 Calle Calzada,92126,USD,1674,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1150000,364,Fallbrook,CA,1979,254 N Old Hill Rd,92028,USD,3159,5,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,382,Fallbrook,CA,1975,1111 Palomino Rd,92028,USD,2288,3,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1200000,306,Fallbrook,CA,1998,1110 Arroyo Pacifica,92028,USD,3919,4,5,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,939000,552,Fallbrook,CA,1984,349 E Alvarado St,92028,USD,1700,3,1,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,769000,316,Fallbrook,CA,2019,375 Ventasso Way,92028,USD,2437,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,585000,346,Fallbrook,CA,1977,1031 Emelita St,92028,USD,1691,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1049000,369,Fallbrook,CA,2000,3660 Paseo De Olivos,92028,USD,2842,3,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,341,Fallbrook,CA,1990,1546 El Nido Dr,92028,USD,2490,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1200000,383,Fallbrook,CA,1990,1032 Los Alisos N,92028,USD,3134,3,4,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,443,Fallbrook,CA,1972,1310 Los Conejos Rd,92028,USD,1352,2,3,1,2,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,357,Fallbrook,CA,1978,4634 Sleeping Indian Rd,92028,USD,2171,2,2,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,457,Fallbrook,CA,1989,4404 E Sandia Creek Ter,92028,USD,1749,2,3,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,330,Fallbrook,CA,2010,4148 Lake Park Ln,92028,USD,1970,3,3,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549900,391,Fallbrook,CA,1974,938 E Alvarado St,92028,USD,1405,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1190000,1055,Fallbrook,CA,1982,2172 Rainbow Glen Rd,92028,USD,1128,2,2,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,839900,279,Fallbrook,CA,2019,35745 Bay Morgan Ln,92028,USD,3006,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,845000,313,Fallbrook,CA,1989,2074 Tudor Ln,92028,USD,2700,3,3,1,3,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,284,Fallbrook,CA,2018,418 Calabrese St,92028,USD,2285,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999900,266,Fallbrook,CA,2007,3706 Lake Circle Dr,92028,USD,3766,4,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1750000,367,Fallbrook,CA,1990,40907 Via Ranchitos,92028,USD,4770,5,4,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,385000,608,Fallbrook,CA,1921,2041 Rainbow Valley Blvd,92028,USD,633,2,2,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,421,Fallbrook,CA,1977,1485 Via Ladera,92028,USD,3206,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,439000,398,San Diego,CA,1978,10267 Black Mountain Rd APT L5,92126,USD,1104,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,324000,474,San Diego,CA,1979,9889 Caminito Marlock APT 11,92131,USD,684,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,972300,520,San Diego,CA,1985,10913 Sunny Meadow St,92126,USD,1871,3,4,1,2,1,0,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,535000,432,San Diego,CA,1973,10514 Caminito Baywood,92126,USD,1239,2,3,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,735000,477,San Diego,CA,1973,10465 Caminito Mayten,92131,USD,1540,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,529000,462,San Diego,CA,1981,8353 Summerdale Rd #B,92126,USD,1146,3,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,650000,464,San Diego,CA,1989,11147 Scripps Ranch Blvd,92131,USD,1402,2,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,789000,578,San Diego,CA,1980,7978 Hemphill Dr,92126,USD,1366,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,660000,582,San Diego,CA,2002,11456 Miro Cir,92131,USD,1134,2,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,500000,598,San Diego,CA,2002,10848 Scripps Ranch Blvd APT 105,92131,USD,836,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,697000,693,San Diego,CA,1974,9039 Amberly Cir,92126,USD,1006,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,860000,578,San Diego,CA,1979,10510 Parkdale Ave,92126,USD,1488,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,379,Ramona,CA,1988,16203 Aneas Ct,92065,USD,2044,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,690000,274,Ramona,CA,1987,23718 Vista Ramona Rd,92065,USD,2521,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,719000,394,Ramona,CA,1990,1262 Anna Rose Ln,92065,USD,1823,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,995000,359,Ramona,CA,1996,17101 Woodson View Ln,92065,USD,2770,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1150000,544,Ramona,CA,1989,16575 Highland Trails Dr,92065,USD,2114,3,4,1,2,1,Two,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,685000,398,Ramona,CA,1986,23815 Oak Meadow Dr,92065,USD,1720,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,403,Ramona,CA,2005,15435 Manzanita Ranch Rd,92065,USD,3720,5,5,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,759000,594,Ramona,CA,1960,801 Poplar St,92065,USD,1277,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,945000,392,Ramona,CA,2008,2225 Tyler Way,92065,USD,2408,3,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,376,Ramona,CA,1979,24044 Nectar Way,92065,USD,1662,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,765000,243,Ramona,CA,1979,15515 Calistoga Dr,92065,USD,3148,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,834888,371,Ramona,CA,1986,1369 Hanson Way,92065,USD,2248,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,939000,381,Ramona,CA,1999,16548 Daza Dr,92065,USD,2464,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,595000,496,Ramona,CA,1976,2334 San Diego Ave,92065,USD,1200,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,226,Ramona,CA,1981,15426 Vista Vicente Dr,92065,USD,3546,3,4,1,3,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,310,Ramona,CA,2006,23726 Gymkhana Rd,92065,USD,2900,5,6,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,680000,285,Ramona,CA,1989,23636 Atex Ct,92065,USD,2389,3,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2500000,2500,Ramona,CA,2009,19754 Sunset Oaks Dr,92065,USD,1000,1,3,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,719900,342,Ramona,CA,1979,24021 Vista Vicente Ct,92065,USD,2102,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,406,Ramona,CA,2016,1702 Olive St,92065,USD,1969,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,855000,395,Ramona,CA,1989,24912 Via Lopez Ct,92065,USD,2166,3,3,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,480,Ramona,CA,1972,1758 El Cajon Ln,92065,USD,1352,2,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,271,Ramona,CA,2000,23448 Calistoga Pl,92065,USD,2952,3,4,1,3,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,7495000,1601,Cardiff By The Sea,CA,1991,2520-2524 San Elijo Ave,92007,USD,4682,5,3,1,3,1,Three Or More,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2100000,961,Cardiff,CA,2021,1716 Freda Ln,92007,USD,2186,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1749000,1210,Cardiff,CA,1951,1728 Glasgow Ave,92007,USD,1446,3,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1700000,808,Cardiff,CA,1961,935 Robley Pl,92007,USD,2103,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1970000,789,Cardiff,CA,1988,1927 Playa Riviera Dr,92007,USD,2496,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2695000,913,Cardiff,CA,1979,2462 Newport Ave,92007,USD,2952,4,6,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3695000,1045,Cardiff,CA,2003,1583 Vivaldi St,92007,USD,3537,4,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3500000,1507,Cardiff By The Sea,CA,2022,1545 San Elijo Ave,92007,USD,2322,5,5,1,2,1,Two,0,0,1,SINGLE_FAMILY,San Diego County
+Listed for sale,949000,306,Pine Valley,CA,1950,28950 Laguna Trl,91962,USD,3105,4,3,1,0,0,Multi/Split,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,420000,429,Campo,CA,1946,29481 Manzanita Dr,91906,USD,980,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,450000,240,Campo,CA,1987,2462 Cedar Dr,91906,USD,1872,2,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,639998,311,Campo,CA,2011,2460 Pine Dr,91906,USD,2058,3,3,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,375000,473,Campo,CA,1974,28670 Highway 94,91906,USD,792,1,2,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,349000,349,Campo,CA,1944,2494 Sage Dr,91906,USD,1000,1,2,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,449000,486,Campo,CA,1972,2531 Lake Shore Dr,91906,USD,923,1,3,0,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,949900,352,Alpine,CA,1990,348 Bridle Run Pl,91901,USD,2695,4,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,414,Alpine,CA,1975,1411 Blue Lilac Ln,91901,USD,1929,3,4,1,2,1,Three Or More,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,689000,417,Alpine,CA,1996,2509 Columbine Dr,91901,USD,1651,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,725000,358,Alpine,CA,1977,2861 Olive View Rd,91901,USD,2024,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1150000,397,Alpine,CA,2004,3506 Fazio Rd,91901,USD,2896,3,3,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,395,Alpine,CA,1995,702 Camino Scarpitta,91901,USD,2152,3,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,429,Alpine,CA,2005,1143 Peutz Valley Rd,91901,USD,1397,2,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,270,Alpine,CA,1995,3580 Emmanuel Way,91901,USD,2217,3,4,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,381,Alpine,CA,1951,1373 Real Way Ln,91901,USD,2493,2,3,1,0,0,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,349500,348,Alpine,CA,1995,1434 Marshall Rd UNIT 3,91901,USD,1005,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,770000,424,Alpine,CA,2006,2293 Marquand Ct,91901,USD,1814,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,515,Alpine,CA,1983,2042 Lilac Ln,91901,USD,1456,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,617,San Diego,CA,1967,2285 Crandall Dr,92111,USD,1296,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,369000,394,San Diego,CA,1975,3230 Ashford St,92111,USD,936,2,2,1,0,0,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,950000,404,San Diego,CA,1958,4011 Armstrong St,92111,USD,2350,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,839000,583,San Diego,CA,1989,7013 Osler St,92111,USD,1438,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,525000,525,San Diego,CA,1973,5695 Caminito Katerina,92111,USD,1000,2,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,725000,559,San Diego,CA,1965,3355 Bevis St,92111,USD,1296,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,528,San Diego,CA,1970,2758 Comstock St,92111,USD,1468,2,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,687,San Diego,CA,1960,4072 Antiem St,92111,USD,1308,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,320000,548,San Diego,CA,1972,6333 Mount Ada Rd UNIT 184,92111,USD,584,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,894900,691,San Diego,CA,1980,2363 Hanford Dr,92111,USD,1296,2,4,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1050000,640,San Diego,CA,1975,6465 Shirehall Dr,92111,USD,1640,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,865000,675,San Diego,CA,1948,2622 Nye St,92111,USD,1281,3,4,1,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,410900,529,San Diego,CA,1995,2219 Burroughs St UNIT 12,92111,USD,777,1,2,1,2,0,0,0,0,0,CONDO,San Diego County
+Listed for sale,799000,519,San Diego,CA,1978,7027 Ladrillo St,92111,USD,1540,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,385000,441,San Diego,CA,1978,8034 Linda Vista Rd APT 1O,92111,USD,874,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,399900,458,San Diego,CA,1978,8036 Linda Vista Rd APT 2R,92111,USD,874,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1275000,889,Rancho Santa Fe,CA,1966,107 Via Coronado,92091,USD,1435,3,2,1,1,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,3200000,1071,Rancho Santa Fe,CA,1978,6983 Via Del Charro,92091,USD,2988,3,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1695000,573,Rancho Santa Fe,CA,1985,5272 Caminito Providencia,92091,USD,2956,4,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,575000,364,Chula Vista,CA,2006,2157 Dovetail Ct,91915,USD,1581,4,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,650000,386,Chula Vista,CA,2005,2296 Easy Stroll Ln,91915,USD,1682,2,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,595000,403,Chula Vista,CA,2017,2321 Element Way APT 1,91915,USD,1475,2,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,900000,384,Chula Vista,CA,2008,2333 Dragonfly St,91915,USD,2342,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,555000,379,Chula Vista,CA,2010,1626 Cliff Rose Dr UNIT 143,91915,USD,1464,3,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,699000,348,Chula Vista,CA,2009,2213 Andalusia Ln UNIT 14,91915,USD,2011,3,3,1,2,1,0,1,1,0,CONDO,San Diego County
+Listed for sale,535000,365,Chula Vista,CA,2007,2151 Cherry Blossom Ct UNIT 196,91915,USD,1464,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,595000,491,El Cajon,CA,2007,301 Lento Ln,92021,USD,1213,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,269,El Cajon,CA,1970,327 Cedar St,92021,USD,2041,2,3,1,1,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,294,El Cajon,CA,1994,15324 Sleepy Creek Rd,92021,USD,3742,4,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,497,El Cajon,CA,1961,1660 Garywood St,92021,USD,1266,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,635000,321,El Cajon,CA,1958,1329 Flamingo Pl,92021,USD,1976,2,4,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599900,403,El Cajon,CA,1936,260 North Ln,92021,USD,1488,2,3,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,378,El Cajon,CA,2002,13758 Gateway View Dr,92021,USD,1717,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,739900,385,El Cajon,CA,1957,8220 Starland Dr,92021,USD,1920,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,579900,583,El Cajon,CA,1951,1248 Dawnridge Ave,92021,USD,994,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,384,El Cajon,CA,1951,1183 Flamingo Ave,92021,USD,2215,3,5,1,6,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599900,497,El Cajon,CA,1958,1126 Mary St,92021,USD,1207,2,3,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,400,El Cajon,CA,1956,14863 Quail Valley Way,92021,USD,2190,4,2,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,379000,348,El Cajon,CA,1965,1244 E Madison Ave UNIT C,92021,USD,1088,2,2,1,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,249000,354,El Cajon,CA,1965,540 Oakdale Ln UNIT F,92021,USD,704,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,665000,866,El Cajon,CA,1948,15559 Vachell Ln,92021,USD,768,1,1,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,725000,556,Santee,CA,1972,8434 Kreiner Way,92071,USD,1305,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,810000,450,Santee,CA,1971,9943 Jeremy St,92071,USD,1800,3,4,0,0,0,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,735000,433,Santee,CA,1987,10268 Easthaven Dr,92071,USD,1697,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599999,346,Santee,CA,2005,10225 Daybreak Ln UNIT 6,92071,USD,1733,4,4,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,500000,428,Santee,CA,1989,10110 Palm Glen Dr UNIT 9,92071,USD,1168,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,469000,379,Santee,CA,1986,10710 Holly Meadows Dr UNIT D,92071,USD,1236,2,3,1,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,789000,446,Santee,CA,1977,8412 Carlton Oaks Dr,92071,USD,1768,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,739000,595,Santee,CA,1961,8839 Carlton Oaks Dr,92071,USD,1242,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749900,461,Santee,CA,1970,9806 Bilteer Dr,92071,USD,1628,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549900,347,Santee,CA,2005,10229 Brightwood Ln #82/3,92071,USD,1587,4,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,639900,449,Santee,CA,1988,9053 Calle Del Verde,92071,USD,1425,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,559000,396,Santee,CA,1978,9644 Seth Ln,92071,USD,1410,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,523,Santee,CA,1961,9411 Saint Andrews Dr,92071,USD,1290,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,475000,352,Santee,CA,1987,10270 Norma Gardens Dr UNIT 8,92071,USD,1348,2,3,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,799900,399,Santee,CA,1972,10029 Via Leslie,92071,USD,2004,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,546,Santee,CA,1960,9240 Bloomdale St,92071,USD,1008,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,303,Santee,CA,2007,10018 Merry Brook Trl,92071,USD,2807,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,365000,407,Santee,CA,1972,10323 Restful Ct,92071,USD,896,1,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,549000,409,Santee,CA,2005,19 Via Montisi,92071,USD,1342,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,730000,573,Santee,CA,1973,9926 Medina Dr,92071,USD,1274,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,497,Santee,CA,1972,9227 Massot Ave,92071,USD,1305,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,539000,453,Santee,CA,2005,10160 Brightwood Ln UNIT 1,92071,USD,1190,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,519000,391,Santee,CA,1978,9445 Carlton Oaks Dr UNIT B,92071,USD,1328,3,4,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,779000,371,Santee,CA,1975,10039 Buena Vista Ave,92071,USD,2099,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,446,Santee,CA,1998,156 River Rock Ct,92071,USD,1680,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,461,San Diego,CA,1982,2744 Frankfort St,92117,USD,1949,3,3,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,889900,551,San Diego,CA,1960,8997 Gowdy Ave,92123,USD,1616,2,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,486000,406,Vista,CA,1986,252 Durian St,92083,USD,1197,2,2,1,2,0,0,1,1,0,TOWNHOUSE,San Diego County
+Listed for sale,764900,490,Vista,CA,1987,1283 Winchester Ct,92083,USD,1561,3,3,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,760000,406,Vista,CA,2005,820 Silver Dr,92083,USD,1874,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,624999,503,Vista,CA,1957,1115 Phillips St,92083,USD,1242,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,526,Vista,CA,1973,1161 Tower Dr,92083,USD,1235,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,0,Vista,CA,1958,395-397 Eddie Dr,92083,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,395000,370,Vista,CA,2007,202 Calle Del Sol,92083,USD,1068,2,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,750000,360,Vista,CA,1977,1437 Steen Cir,92083,USD,2082,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549000,563,Vista,CA,1960,1069 Bluegrass Rd,92083,USD,976,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,412,Vista,CA,1980,1177 Phillips St,92083,USD,2184,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,379,Vista,CA,1979,1111 Olive Ave,92083,USD,1452,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,639000,683,Vista,CA,1962,716 Grapevine Rd,92083,USD,935,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,430,Vista,CA,1989,1528 Merlot Ct,92083,USD,1803,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,694000,381,Vista,CA,1980,1046 Chelsea Ct,92084,USD,1820,3,3,1,2,1,Two,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679000,606,Vista,CA,1960,163 Ocean View Dr,92084,USD,1120,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,789000,385,Vista,CA,1967,656 Crescent Ln,92084,USD,2052,3,4,1,2,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499995,402,Oceanside,CA,1988,1518 Silverado Dr,92057,USD,1243,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,475000,401,Vista,CA,1990,1386 Palomar Pl,92084,USD,1185,2,3,1,2,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,853300,417,Vista,CA,1964,1649 Foothill Dr,92084,USD,2048,2,4,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,948000,351,Vista,CA,1977,1031 Alta Vista Dr,92084,USD,2701,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1279000,389,Oceanside,CA,1993,5856 Jeffries Ranch Rd,92057,USD,3285,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099000,421,Vista,CA,1935,526 Rudd Rd,92084,USD,2612,3,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099000,543,Vista,CA,1961,2166 Warmlands Ave,92084,USD,2024,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,0,Vista,CA,1959,709-711 Townsite Dr,92084,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,960000,367,Vista,CA,1978,2438 Stockton Ln,92084,USD,2614,2,3,1,2,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,380,Oceanside,CA,1986,5656 Tumbleweed Way,92057,USD,1314,3,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1359000,341,Vista,CA,2004,2192 Ipanema Ln,92084,USD,3980,4,4,1,4,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,860000,334,Vista,CA,1988,1259 Girard Ct,92084,USD,2578,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199000,339,Bonita,CA,1979,3109 Sunup Ct,91902,USD,3533,5,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,925000,446,Bonita,CA,1978,3726 Country Trl,91902,USD,2076,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1700000,473,Bonita,CA,1990,1529 Country Vistas Ln,91902,USD,3596,6,5,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1900000,321,Bonita,CA,1977,5274 Margaret St,91902,USD,5910,8,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,415000,360,Bonita,CA,1980,2920 Briarwood Rd UNIT H9,91902,USD,1154,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1100000,523,Bonita,CA,1968,3579 Lomacitas Ln,91902,USD,2102,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,869000,666,San Diego,CA,1962,6003 Erlanger St,92122,USD,1305,2,3,1,2,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,799000,656,San Diego,CA,1962,5190 Bowden Ave,92117,USD,1218,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,827777,555,San Diego,CA,1955,4657 Pocahontas Ave,92117,USD,1491,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,516,San Diego,CA,1975,5132 Canosa Ave,92117,USD,1742,2,4,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1050000,658,San Diego,CA,1973,2891 Aber St,92117,USD,1596,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,949000,363,San Marcos,CA,1991,358 Glendale Ave,92069,USD,2617,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,416,San Marcos,CA,2005,318 Borden Rd,92069,USD,1563,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,699900,496,San Marcos,CA,2003,1167 Westin Way,92078,USD,1410,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,899000,515,San Marcos,CA,1994,959 Mendocino Dr,92078,USD,1746,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,560,San Marcos,CA,1997,408 Peachtree Ct,92078,USD,1339,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,780000,341,San Marcos,CA,1990,928 Merlin Ct,92069,USD,2285,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,449,San Marcos,CA,1999,760 Avenida Codorniz,92069,USD,2118,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,485000,472,San Marcos,CA,2004,864 Ballow Way,92078,USD,1027,2,2,1,2,1,Two,0,0,0,TOWNHOUSE,San Diego County
+Listed for sale,995000,280,San Marcos,CA,2001,730 Via Cafetal,92069,USD,3555,3,6,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,945000,446,San Marcos,CA,1993,845 Applewilde Dr,92078,USD,2118,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,560000,463,San Marcos,CA,2004,692 Hatfield Dr,92078,USD,1209,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,940000,364,San Marcos,CA,2002,731 W Bel Esprit Cir,92069,USD,2579,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,489000,416,San Marcos,CA,1976,134 Cerco Rosado,92069,USD,1175,2,2,1,2,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,849999,367,San Marcos,CA,1991,1175 Gazania Ct,92078,USD,2319,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099000,370,San Marcos,CA,2000,581 Rush Dr,92078,USD,2971,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,969000,466,San Marcos,CA,1989,955 Pinon St,92069,USD,2081,3,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1295000,504,San Marcos,CA,2004,1021 Brightwood Dr,92078,USD,2568,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399900,430,San Marcos,CA,1987,221 Westlake Dr UNIT 8,92069,USD,931,3,2,1,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,682000,339,San Marcos,CA,2013,286 Candera Ln,92069,USD,2014,3,4,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,729500,397,San Marcos,CA,1978,1021 La Noche Dr,92078,USD,1838,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,759000,422,San Marcos,CA,1977,337 Camino Mateo,92069,USD,1799,2,4,1,2,1,One,0,0,1,SINGLE_FAMILY,San Diego County
+Listed for sale,729999,438,San Marcos,CA,1977,909 Lacebark St,92069,USD,1668,2,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2000000,0,San Diego,CA,1952,3981-83 Lamont St,92109,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,699000,874,San Diego,CA,1969,1376 Oliver Ave APT 4,92109,USD,800,2,2,1,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,999000,660,San Diego,CA,1982,1159 Pacific Beach Dr,92109,USD,1514,3,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,283500,591,San Diego,CA,1975,4600 Lamont St #235,92109,USD,480,1,0,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,979900,1222,San Diego,CA,1973,4767 Ocean Blvd UNIT 407,92109,USD,802,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,2850000,1143,San Diego,CA,1965,4316-18 Bayard St,92109,USD,2494,0,0,1,3,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,2495000,0,San Diego,CA,1951,859-861 Beryl St,92109,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,2995000,916,San Diego,CA,2017,1220 Emerald St,92109,USD,3270,4,5,1,1,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549900,620,San Diego,CA,1975,1964 Missouri St APT 3,92109,USD,887,1,2,1,0,0,Two,0,0,0,TOWNHOUSE,San Diego County
+Listed for sale,625000,715,San Diego,CA,1978,4073 Kendall St #C,92109,USD,874,2,2,1,1,1,Two,0,0,0,CONDO,San Diego County
+Listed for sale,879000,421,Vista,CA,1979,3531 Camino De Las Lomas,92084,USD,2088,3,3,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,925000,440,Vista,CA,1959,2076 Buena Creek Rd,92084,USD,2100,3,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,779000,394,Vista,CA,1993,2159 Bella Vista Dr,92084,USD,1978,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1450000,361,Vista,CA,2017,1720 Sugarbush Dr,92084,USD,4013,4,5,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,955777,324,Vista,CA,1976,2032 Grandview Rd,92084,USD,2952,3,5,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,510,Vista,CA,1971,1940 Calle Sinaloa,92084,USD,1364,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,379900,551,San Diego,CA,1979,6362 Rancho Mission Rd UNIT 702,92108,USD,690,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,625000,406,San Diego,CA,1978,6355 Rancho Mission Rd UNIT 3,92108,USD,1538,2,3,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,324900,487,San Diego,CA,1979,6275 Rancho Mission Rd UNIT 203,92108,USD,667,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,799000,544,San Diego,CA,2014,2506 Aperture Cir,92108,USD,1470,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,749000,463,San Diego,CA,1978,4289 Caminito Pintoresco,92108,USD,1618,3,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,425000,550,Carlsbad,CA,1989,3513 Caminito Sier UNIT 301,92009,USD,773,1,1,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1475000,483,Carlsbad,CA,1990,3304 Febo Ct,92009,USD,3056,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,635000,475,Carlsbad,CA,2003,6436 Terraza Portico,92009,USD,1338,2,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,949000,653,Carlsbad,CA,1980,3318 Dorado Pl,92009,USD,1453,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,665000,497,Carlsbad,CA,2002,6478 Corte La Luz,92009,USD,1338,2,3,1,0,0,0,1,0,0,CONDO,San Diego County
+Listed for sale,1995000,639,Carlsbad,CA,1998,3467 Corte Clarita,92009,USD,3123,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,575000,321,Ranchita,CA,1987,2941 Chimney Rock Rd,92066,USD,1792,2,2,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,584999,355,San Diego,CA,1964,3855 Ocean View Blvd,92113,USD,1650,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1075000,653,San Diego,CA,1996,1310 24th St,92102,USD,1647,3,3,1,3,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,942888,534,San Diego,CA,2008,1700 National Ave,92113,USD,1765,5,3,1,2,1,Three Or More,0,0,0,CONDO,San Diego County
+Listed for sale,1300000,589,San Diego,CA,1998,2152 6th Ave,92101,USD,2207,4,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1250000,399,La Mesa,CA,1953,4582 Acacia Ave,91941,USD,3136,0,0,1,4,1,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,499000,632,Spring Valley,CA,1970,861 Galopago St,91977,USD,790,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,325000,446,La Mesa,CA,1972,4512 Parks Ave UNIT 4,91942,USD,728,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1995000,379,La Mesa,CA,1990,10679 Fuerte Dr,91941,USD,5269,5,6,1,4,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,989900,422,La Mesa,CA,1951,9365 Carmichael Dr,91941,USD,2346,3,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,415000,407,Spring Valley,CA,1993,2461 Kings View Cir,91977,USD,1020,3,2,1,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,639000,426,Lemon Grove,CA,1962,2606 Cinderella Way,91945,USD,1501,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,505,Lemon Grove,CA,1959,8111 Brock Ct,91945,USD,1285,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,640000,477,Spring Valley,CA,1958,3260 S Bonita St,91977,USD,1342,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,581,Spring Valley,CA,1960,607 Broadview St,91977,USD,1083,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,645000,396,Spring Valley,CA,1970,10154 Campo Rd,91977,USD,1628,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,589900,523,Spring Valley,CA,1950,8614 Tyler St,91977,USD,1128,2,3,1,1,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1498300,395,La Mesa,CA,1980,4717 Resmar Rd,91941,USD,3790,4,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,819000,391,Spring Valley,CA,1996,1103 Cuyamaca Ave,91977,USD,2092,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,354,Spring Valley,CA,1978,9309 Montemar Dr,91977,USD,2116,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,450000,441,Spring Valley,CA,1993,2109 Kings View Cir,91977,USD,1020,3,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,699000,295,Spring Valley,CA,1961,3653 S Granada Ave,91977,USD,2369,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,542,La Mesa,CA,1955,4601 Bancroft Dr,91941,USD,1474,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999900,626,La Mesa,CA,1975,9168 Grossmont Blvd,91941,USD,1597,3,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,539000,475,Spring Valley,CA,1963,9838 Ivanho St,91977,USD,1134,1,3,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,529000,445,Spring Valley,CA,1959,1009 Broadview St,91977,USD,1188,1,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,669500,507,Spring Valley,CA,1997,8811 Margaret Ct,91977,USD,1320,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,428,San Diego,CA,1974,10890 Macouba Pl,92124,USD,1400,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1200000,626,San Diego,CA,1980,11706 Papagallo Ct,92124,USD,1916,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,470000,410,San Diego,CA,2005,7671 Mission Gorge Rd UNIT 95,92120,USD,1146,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,749900,550,San Diego,CA,2000,9717 W Canyon Ter UNIT 2,92123,USD,1363,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1425000,438,San Diego,CA,1972,5495 Azores Ct,92124,USD,3250,3,5,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,449000,402,San Diego,CA,1981,11255 Tierrasanta Blvd UNIT 69,92124,USD,1118,2,2,1,1,1,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,619900,430,San Diego,CA,1977,10879 Caravelle Pl,92124,USD,1442,2,3,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,719000,461,San Diego,CA,1975,9768 Guisante Ter,92124,USD,1559,2,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,649000,401,San Diego,CA,1984,7982 Mission Vista Dr,92120,USD,1618,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,950000,469,San Diego,CA,1972,10719 Montego Dr,92124,USD,2024,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,460,San Diego,CA,1975,9768 Rimpark Way,92124,USD,1360,3,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,405000,543,San Diego,CA,1978,7737 Margerum Ave UNIT 105,92120,USD,746,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,795300,447,San Diego,CA,1980,11476 Azucena Dr,92124,USD,1779,3,3,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199950,557,San Diego,CA,1964,7853 Blue Lake Dr,92119,USD,2156,3,4,1,2,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,989000,487,El Cajon,CA,1975,2550 Windmill View Rd,92020,USD,2030,2,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,830000,367,El Cajon,CA,1976,733 Hacienda Dr,92020,USD,2264,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,447,El Cajon,CA,1977,1402 Hacienda Dr,92020,USD,2010,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679000,670,La Mesa,CA,1953,6040 Sinton Pl,91942,USD,1014,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,665000,603,La Mesa,CA,1978,5885 Nagel St,91942,USD,1102,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,425000,428,La Mesa,CA,1980,5631 Lake Park Way UNIT 2,91942,USD,992,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1099900,537,El Cajon,CA,1986,1962 Altozano Dr,92020,USD,2048,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,515,San Diego,CA,1972,7523 Golfcrest Dr,92119,USD,1843,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,769000,448,La Mesa,CA,1990,7009 Wyoming Ave,91942,USD,1715,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899900,460,El Cajon,CA,1952,2646 Katherine St,92020,USD,1957,3,3,1,0,0,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,898900,403,El Cajon,CA,1986,1184 Loma Portal Dr,92020,USD,2233,2,3,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849900,458,La Mesa,CA,1932,8463 Lemon Ave,91941,USD,1856,3,2,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,764900,666,La Mesa,CA,1951,4976 Randlett Dr,91942,USD,1149,1,3,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,985000,453,San Diego,CA,1965,8608 Maury Ct,92119,USD,2172,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,419900,393,La Mesa,CA,1976,5700 Baltimore Dr UNIT 85,91942,USD,1068,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,650000,432,El Cajon,CA,1951,2335 Charles Way,92020,USD,1503,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,501,El Cajon,CA,1952,765 N Cuyamaca St,92020,USD,1247,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999000,516,San Diego,CA,1965,6965 Lalley Ln,92119,USD,1935,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,528888,424,National City,CA,1970,1445 Calle Delgado,91950,USD,1246,2,3,1,1,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,800000,328,National City,CA,1988,3740 Sweetwater Rd,91950,USD,2436,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699999,519,National City,CA,2020,1140-42 Hoover Ave,91950,USD,1350,3,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199000,0,National City,CA,1945,1915-21 A Ave,91950,USD,0,0,0,1,1,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,599000,432,National City,CA,1950,215 Harbison Ave,91950,USD,1385,3,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,462,San Diego,CA,1978,5016 Tiselle Way,92105,USD,1296,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,595000,447,San Diego,CA,1980,590 Fergus St,92114,USD,1330,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,524,San Diego,CA,1958,911 Bollenbacher St,92114,USD,1240,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,362,San Diego,CA,1984,272 Jenna Ct,92114,USD,1797,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,300000,369,San Diego,CA,1979,1605 Pentecost Way UNIT 7,92105,USD,813,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,635000,579,San Diego,CA,1949,2236 Haniman Dr,92105,USD,1096,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749900,367,Lemon Grove,CA,1952,6570 Macarthur Dr,91945,USD,2045,3,3,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,424900,373,San Diego,CA,1981,3607 51st St UNIT F,92105,USD,1140,2,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,649900,623,San Diego,CA,1951,3084 Central Ave,92105,USD,1044,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,660000,479,San Diego,CA,1965,5615 Dwight St,92105,USD,1378,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,623,San Diego,CA,1948,764 Melrose Pl,92114,USD,962,1,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1175900,621,San Diego,CA,1989,11210 Wallaby Ct,92128,USD,1893,3,4,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,553,San Diego,CA,1994,12080 Tivoli Park Row UNIT 1,92128,USD,1084,2,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1139000,697,San Diego,CA,1988,14823 Gable Ridge Rd,92128,USD,1634,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,488,San Diego,CA,1987,10536 Rancho Carmel Dr,92128,USD,1638,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,669,San Diego,CA,1987,11860 Caminito Ryone,92128,USD,1194,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,519000,478,San Diego,CA,1995,15383 Maturin Dr UNIT 217,92127,USD,1085,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,825000,565,San Diego,CA,1987,11851 Caminito Ryone,92128,USD,1461,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,608,San Diego,CA,1986,13471 Cool Lake Way,92128,USD,1603,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,432,San Diego,CA,1984,11865 Calle Vivienda,92128,USD,2548,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,515,San Diego,CA,1987,15271 Avenida Rorras,92128,USD,1843,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1750000,507,San Diego,CA,1997,12055 Wooded Vista Ln,92128,USD,3454,4,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199000,693,San Diego,CA,1995,12115 Briarleaf Way,92128,USD,1729,3,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,500000,526,San Diego,CA,1995,15393 Maturin Dr UNIT 248,92127,USD,950,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1089000,421,San Diego,CA,1985,12189 Caminito Corriente,92128,USD,2586,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,465,San Diego,CA,1989,15603 Caldas De Reyes,92128,USD,1708,2,3,1,2,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,649000,594,San Diego,CA,2005,10804 Serafina Ln UNIT 5,92128,USD,1092,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,999900,529,Poway,CA,1959,15213 Hilltop Cir,92064,USD,1890,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1900000,476,San Diego,CA,2003,15270 Falcon Crest Ct,92127,USD,3990,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,848000,367,Oceanside,CA,1992,326 Lustrosos St,92057,USD,2309,3,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,270,Oceanside,CA,2006,1113 Sunview Pl,92057,USD,3238,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699500,507,Oceanside,CA,1988,651 Boysenberry Way,92057,USD,1379,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,469000,448,Oceanside,CA,1972,3566 Bartlett Ave,92057,USD,1046,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,975000,329,Oceanside,CA,2000,4748 Sandalwood Way,92057,USD,2963,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,508,Oceanside,CA,1984,5142 Andrew Jackson St,92057,USD,1572,3,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,336,Oceanside,CA,2003,364 Spring Canyon Way,92057,USD,2364,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,575000,417,Oceanside,CA,2004,1469 Rancho Rose Way UNIT 30,92057,USD,1379,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,749000,519,Oceanside,CA,1990,467 Avenida Canora,92057,USD,1442,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,715000,388,Oceanside,CA,2004,5121 Mendip St,92057,USD,1844,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,946900,392,Oceanside,CA,1997,4110 Periwinkle Way,92057,USD,2415,3,4,1,3,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599900,536,Oceanside,CA,1972,350 Calle Vallecito,92057,USD,1120,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,521,Oceanside,CA,1973,675 Cajon Cir,92057,USD,1056,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1075000,403,Oceanside,CA,2017,4223 Calle Del Vis,92057,USD,2666,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,407000,383,Oceanside,CA,1979,4490 Dulin Pl,92057,USD,1064,2,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,475000,420,Oceanside,CA,2011,5074 Cascade Way UNIT 102,92057,USD,1132,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,435000,323,Oceanside,CA,1970,3808 Vista Campana S UNIT 29,92057,USD,1347,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,497500,443,Oceanside,CA,1975,3856 Rosemary Way,92057,USD,1122,2,2,1,2,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,699000,322,Oceanside,CA,2004,239 Franciscan Way,92057,USD,2168,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,341,Oceanside,CA,1990,5140 Via Mindanao,92057,USD,2563,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,435000,292,Oceanside,CA,1983,234 Riverview Way,92057,USD,1488,3,3,1,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,350000,321,Oceanside,CA,1981,1123 Turnstone Way,92057,USD,1092,2,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,310,Oceanside,CA,2005,5258 Willow Walk Rd,92057,USD,2498,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,389000,432,Oceanside,CA,1986,5021 Los Morros Way UNIT 31,92057,USD,900,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,529000,425,Oceanside,CA,1972,4753 Calle Estrella,92057,USD,1245,2,3,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,6495000,1469,La Jolla,CA,1989,6331 Camino De La Costa,92037,USD,4420,6,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2495000,1168,La Jolla,CA,1961,2322 Bahia Dr,92037,USD,2136,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,6500000,1234,La Jolla,CA,2008,1626 Buckingham Dr,92037,USD,5268,7,5,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3348000,1358,La Jolla,CA,1958,6334 La Pintura Dr,92037,USD,2465,3,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2395000,685,San Diego,CA,2005,5226 Vickie Dr,92109,USD,3498,4,5,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679000,295,Santa Ysabel,CA,1974,1440 Springview Rd,92070,USD,2298,4,3,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,311,Santa Ysabel,CA,2008,4286 Ritchie Rd,92070,USD,2248,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,364,Santa Ysabel,CA,1988,4861 Meadowridge Rd,92070,USD,2055,3,3,1,4,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,0,San Diego,CA,2015,1859-61 Irving Ave,92113,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,525000,446,San Diego,CA,1956,5036 Pelusa St,92113,USD,1176,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,404,San Diego,CA,2021,3491 Martin Ave,92113,USD,1729,3,4,1,1,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,619900,593,San Diego,CA,1923,303 S 46th St,92113,USD,1045,4,3,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099000,481,San Diego,CA,1990,1751 Julian Ave,92113,USD,2285,3,4,1,5,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,735000,526,Escondido,CA,1979,1126 Gaucho Pl,92029,USD,1397,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099000,425,Escondido,CA,2001,3326 Camino Marzagan,92029,USD,2587,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,890000,429,Escondido,CA,2015,2689 Overlook Point Dr,92029,USD,2075,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,949900,418,Escondido,CA,1989,935 Chardonney Way,92029,USD,2271,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199000,425,Escondido,CA,1994,1910 Hamilton Ln,92029,USD,2819,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,995000,354,Escondido,CA,1991,3065 Avenida Magoria,92029,USD,2813,4,4,1,3,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,460000,369,Escondido,CA,1986,1564 Tanglewood Ln UNIT 23,92029,USD,1245,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1200000,427,Escondido,CA,1998,3230 Via Zamora,92029,USD,2813,4,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,580000,487,Escondido,CA,1990,2054 Gabrielle Gln,92029,USD,1192,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3499000,351,Escondido,CA,2001,3653 Purer Rd,92029,USD,9964,8,5,1,4,1,Three Or More,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,579000,364,San Ysidro,CA,1987,3834 Via Del Bardo,92173,USD,1592,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,670000,414,San Ysidro,CA,1980,1626 Howard Ave,92173,USD,1619,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1699000,0,San Ysidro,CA,1978,317-319 Foothill Rd,92173,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,359000,388,San Ysidro,CA,1996,291 Sycamore Rd UNIT 6,92173,USD,925,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,649900,417,San Ysidro,CA,2001,3812 Coral Shores Ct,92173,USD,1558,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,425000,411,San Diego,CA,1992,1523 Smythe Ave,92173,USD,1034,2,2,1,0,0,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,799900,557,Spring Valley,CA,1977,9352 Corte Pato,91977,USD,1437,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,925000,344,La Mesa,CA,1973,10750 Anaheim Dr,91941,USD,2686,3,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,619,Spring Valley,CA,1958,2916 Helix St,91977,USD,1129,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,343,Spring Valley,CA,1980,10289 Moorpark St,91978,USD,2335,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,955000,344,Spring Valley,CA,2016,1657 Coronado Ave,91977,USD,2778,4,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,425,Spring Valley,CA,1959,9027 Davenrich St,91977,USD,1528,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,985000,420,La Mesa,CA,1970,9579 Tropico Dr,91941,USD,2347,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,859000,387,Spring Valley,CA,1988,3690 Summerfield Dr,91977,USD,2222,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,348,Spring Valley,CA,2002,2130 Crystal Clear Dr,91978,USD,2733,3,4,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,448,La Mesa,CA,1978,10768 Louisa Dr,91941,USD,1728,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,436,Spring Valley,CA,1982,1620 Portola Ave,91977,USD,1492,2,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,406,Spring Valley,CA,1950,9235 Brookside Cir,91977,USD,1600,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,635000,436,Lemon Grove,CA,1947,1625 Dupont Dr,91945,USD,1458,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,522,Lemon Grove,CA,1935,8366 Adams St,91945,USD,2872,4,5,1,6,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,513,Lemon Grove,CA,1950,7855 Lincoln St,91945,USD,1168,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,769000,449,Lemon Grove,CA,1974,7007 Lemonwood Ln,91945,USD,1714,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,446,Lemon Grove,CA,1951,7685 Central Ave,91945,USD,1409,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,332,Lemon Grove,CA,1990,1928 Noble St,91945,USD,1804,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,293,Lemon Grove,CA,1980,8451 Mount Vernon St,91945,USD,2900,3,5,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,630000,557,Lemon Grove,CA,1954,2360 Washington St,91945,USD,1132,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,500000,267,Lemon Grove,CA,1955,2234 Morose St,91945,USD,1872,2,4,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,610,La Mesa,CA,1953,3916 Shirlene Pl,91941,USD,1106,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749900,422,La Mesa,CA,1971,3814 Polaris Dr,91941,USD,1776,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,609000,0,La Mesa,CA,1954,3754-3756 Riviera Dr,91941,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,499000,594,La Mesa,CA,1974,8150 Lemon Ave UNIT 101,91941,USD,840,2,2,1,0,0,Two,0,0,0,CONDO,San Diego County
+Listed for sale,1100000,337,La Mesa,CA,1976,7949 Pasadena Ave,91941,USD,3261,4,3,1,0,0,Two-Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3150000,930,Encinitas,CA,1958,1104 Stratford Dr,92024,USD,3386,3,4,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,703,Encinitas,CA,1986,1849 Avenida Flores,92024,USD,1920,3,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2100000,1128,Encinitas,CA,1970,657 Orpheus Ave,92024,USD,1862,2,3,1,4,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,739,Encinitas,CA,1974,407 Requeza St APT E9,92024,USD,744,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,3495000,1440,Encinitas,CA,2000,222 3rd St,92024,USD,2427,3,4,1,2,1,Three Or More,0,0,0,CONDO,San Diego County
+Listed for sale,1450000,755,Encinitas,CA,1985,1921 Avenida Joaquin,92024,USD,1920,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,561,Encinitas,CA,1985,454 Countrywood Ln,92024,USD,1603,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1899000,559,Encinitas,CA,2003,722 Rihely Pl,92024,USD,3400,4,4,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1650000,528,Encinitas,CA,1988,925 Summer Holly Ln,92024,USD,3125,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1549000,881,Encinitas,CA,2007,1084 Nardo Rd,92024,USD,1758,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1999888,761,San Diego,CA,2007,5164 Great Meadow Dr,92130,USD,2629,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1298000,627,San Diego,CA,2011,10777 Canyon Grove Trl #48,92130,USD,2069,3,4,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,2235000,791,Del Mar,CA,1972,12923 Biscayne Cv,92014,USD,2826,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2100000,636,San Diego,CA,2000,4263 Shorepointe Way,92130,USD,3301,5,4,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1749000,665,San Diego,CA,2000,4229 Via Mar De Delfinas,92130,USD,2630,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1790000,689,San Diego,CA,2001,5781 Concord Woods Way,92130,USD,2597,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,722,San Diego,CA,1998,11255 Carmel Creek Rd,92130,USD,1871,3,3,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3300000,1222,Del Mar,CA,1976,13070 Via Grimaldi,92014,USD,2700,3,4,1,0,0,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,619000,673,San Diego,CA,1936,4053 46th St,92105,USD,920,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,593,San Diego,CA,1999,3071 W Canyon Ave,92123,USD,1307,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,759900,690,San Diego,CA,1956,4864 Elsa Rd,92120,USD,1102,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1160000,375,San Diego,CA,1978,6384 Saint Therese Way,92120,USD,3093,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,789000,716,San Diego,CA,1955,6397 Estrella Ave,92120,USD,1102,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,449000,391,San Diego,CA,1984,3926 60th St UNIT 185,92115,USD,1147,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,849900,492,San Diego,CA,1948,4570 48th St,92115,USD,1728,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,530,San Diego,CA,1952,3818 Boren St,92115,USD,1130,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,817,San Diego,CA,1958,9505 Yolanda Ave,92123,USD,1100,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,919990,465,San Diego,CA,1980,5912 Caminito De La Taza,92120,USD,1980,3,2,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,749,San Diego,CA,1927,4604 50th St,92115,USD,868,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,562,San Diego,CA,1957,6932 Eldridge St,92120,USD,1557,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,635,San Diego,CA,1938,5833 Estelle St,92115,USD,943,1,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,536,San Diego,CA,1951,3859 College Ave,92115,USD,1260,1,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,378,Chula Vista,CA,2017,48 Sea Crest Dr,91910,USD,1785,4,4,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,650000,419,Chula Vista,CA,1957,377 Minot Ave,91910,USD,1551,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,479000,423,San Diego,CA,1995,4626 Hartley St APT 2,92102,USD,1132,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,725000,643,San Diego,CA,1959,173 Siena St,92114,USD,1128,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,608,Lakeside,CA,1974,10004 Los Ranchitos Rd,92040,USD,1068,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699999,473,San Diego,CA,1985,6464 Calle Pavana,92139,USD,1480,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,624000,419,San Diego,CA,1960,5780 Calle Felicidad,92139,USD,1488,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,307,San Diego,CA,1974,5715 Altamont Dr,92139,USD,2199,3,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,794900,478,La Mesa,CA,1969,7426 Lowell Ct,91942,USD,1664,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,631,La Mesa,CA,1943,4490 Pomona Ave,91942,USD,1744,4,5,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,809000,435,La Mesa,CA,1972,4737 Normandie Pl,91942,USD,1859,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,814,La Mesa,CA,1942,7345 W Point Ave,91942,USD,768,1,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,424,San Diego,CA,1951,4933 Art St,92115,USD,2299,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,0,San Diego,CA,1950,3167 Market St,92102,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,625000,368,San Diego,CA,1956,4966 Dafter Dr,92102,USD,1698,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,0,San Diego,CA,1974,335 Carlos St,92102,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1200000,0,San Diego,CA,1952,726-732 Raven St,92102,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,284900,291,Escondido,CA,1974,1817 E Grand Ave UNIT 11,92027,USD,979,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,599000,329,Escondido,CA,1975,1352 Miraflores Gln,92026,USD,1818,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,479999,580,Escondido,CA,1968,1739 Acorn St,92027,USD,827,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,397,Escondido,CA,1940,1245 Park Hill Ln,92025,USD,1750,3,4,1,2,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,498,Escondido,CA,1960,850 Begonia St,92027,USD,1105,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,765000,393,Escondido,CA,1990,1429 Corte Rapallo,92026,USD,1948,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,451,Escondido,CA,1967,640 Cameo Dr,92026,USD,1440,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649500,416,Escondido,CA,1961,1114 Buena Vista Ave,92027,USD,1560,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,389,Escondido,CA,1967,821 Paula St,92027,USD,1617,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,350000,391,Escondido,CA,1981,901 N Fig St APT A,92026,USD,896,1,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,725000,381,Escondido,CA,1972,1121 N Rose St,92027,USD,1902,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,325000,361,Escondido,CA,1956,125 W Vermont Ave APT E,92025,USD,900,1,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,599000,424,Escondido,CA,1985,2021 Woodland Gln,92027,USD,1412,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,865000,261,Escondido,CA,1995,1896 Centennial Way,92026,USD,3309,4,5,1,3,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,465,Escondido,CA,1968,1625 Kingston Dr,92027,USD,1288,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849990,369,Escondido,CA,1988,2097 Vintage Pl,92027,USD,2301,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999000,313,Escondido,CA,2018,504 Saddle Pl,92026,USD,3192,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749999,340,Escondido,CA,1950,524 E 4th Ave,92025,USD,2203,2,3,1,0,0,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599995,504,Escondido,CA,1967,2179 Montemar Ave,92027,USD,1190,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,320,Escondido,CA,2011,821 Red Blush Rd,92027,USD,2653,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,624999,457,Escondido,CA,1953,1385 Oak Hill Dr,92027,USD,1369,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,569,Oceanside,CA,1984,595 Lemonwood Ct,92058,USD,1053,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,540000,383,Oceanside,CA,2006,285 Reef Point Way UNIT 4,92058,USD,1410,3,3,1,2,1,Two,0,0,0,TOWNHOUSE,San Diego County
+Listed for sale,350000,355,Oceanside,CA,1978,615 Fredricks Ave UNIT 175,92058,USD,987,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,864900,393,Oceanside,CA,1981,819 Point Buchon,92058,USD,2200,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,393,Spring Valley,CA,1990,289 Arran Ave,91977,USD,1526,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,569900,334,Spring Valley,CA,1958,8721 Adriana St,91977,USD,1708,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649999,368,Spring Valley,CA,1959,811 Elkelton Blvd,91977,USD,1768,2,6,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1069900,428,Escondido,CA,1965,2956 Mary Ln,92025,USD,2500,3,5,1,2,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1398988,341,Escondido,CA,1977,2556 Canyon Rd,92025,USD,4100,4,6,1,2,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1800000,430,Escondido,CA,2002,2565 Park Ridge Dr,92025,USD,4184,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999000,373,Escondido,CA,1991,998 Calle De Lepanto,92025,USD,2675,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,0,Escondido,CA,1960,351 S Beech St,92025,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,850000,316,Escondido,CA,1986,1080 Circle Dr,92025,USD,2694,3,3,1,2,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1175000,415,Escondido,CA,1995,3656 Via Lujosa,92025,USD,2829,3,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,370000,307,Escondido,CA,1981,450 W Vermont Ave #1802,92025,USD,1204,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,539900,324,Escondido,CA,1981,1651 S Juniper St UNIT 99,92025,USD,1664,3,3,0,0,0,Two,1,1,0,TOWNHOUSE,San Diego County
+Listed for sale,850000,487,Escondido,CA,1994,837 Calle Montera,92025,USD,1744,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,483,Escondido,CA,1964,455 Bear Valley Pkwy,92025,USD,1654,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,391,Escondido,CA,1978,387 E Felicita Ave,92025,USD,1664,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,825000,272,Escondido,CA,1965,919 Ranrido Dr,92025,USD,3030,3,4,1,0,0,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,920000,0,Imperial Beach,CA,1958,1283-85 12th St,91932,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,690000,0,Imperial Beach,CA,2000,1067 Connecticut St,91932,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,799000,350,Imperial Beach,CA,2007,908 Florence St,91932,USD,2283,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1324900,633,Imperial Beach,CA,2021,374 Imperial Beach Blvd,91932,USD,2093,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,0,Imperial Beach,CA,1979,1153-55 Emory St,91932,USD,0,0,0,0,0,0,Multi/Split,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,749000,722,Imperial Beach,CA,1942,1226 Fern Ave,91932,USD,1037,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,805,Imperial Beach,CA,1929,570 11th St,91932,USD,930,1,3,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,426,Imperial Beach,CA,2017,517 Turnstone Ln,91932,USD,1760,3,4,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,739000,565,Imperial Beach,CA,1965,1207 Florence St,91932,USD,1308,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1195000,679,Imperial Beach,CA,1992,1362 Seacoast Dr UNIT F,91932,USD,1759,3,3,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,899000,412,Imperial Beach,CA,1960,819 Iris Ave,91932,USD,2184,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,950000,493,Imperial Beach,CA,1950,155 Citrus Ave,91932,USD,1927,3,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,445000,355,San Diego,CA,1971,6888 Hyde Park Dr UNIT G,92119,USD,1252,2,2,1,0,0,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,1179000,0,La Mesa,CA,1965,4850 Jessie Ave,91942,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,569000,304,San Diego,CA,1979,6683 Reservoir Ln,92115,USD,1872,3,4,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,935000,387,Chula Vista,CA,1978,1037 Buena Vista Way,91910,USD,2414,3,5,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,331,Chula Vista,CA,1952,82 F St,91910,USD,2265,4,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,711100,661,Chula Vista,CA,1961,851 Floyd Ave,91910,USD,1075,2,3,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,674900,437,Chula Vista,CA,1956,726 2nd Ave,91910,USD,1544,2,2,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,379,Chula Vista,CA,1984,1461 Summit Dr,91910,USD,1452,3,2,1,2,1,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,700000,511,Chula Vista,CA,1943,281 Shasta St,91910,USD,1370,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,465,Chula Vista,CA,1966,456 Willowcrest Way,91910,USD,1721,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749900,373,Chula Vista,CA,1961,848 Halecrest Dr,91910,USD,2009,3,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,0,Chula Vista,CA,1946,564 G St,91910,USD,0,0,0,1,1,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,849000,397,Chula Vista,CA,1998,922 Camino Del Sol,91910,USD,2137,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629900,398,Chula Vista,CA,1956,718 Elder Ave,91910,USD,1581,2,3,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1595000,480,Chula Vista,CA,1972,58 Via De Laurencio,91910,USD,3324,3,5,1,2,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,834000,434,Chula Vista,CA,1965,888 Crest Dr,91910,USD,1920,2,4,1,2,1,0,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,339,Chula Vista,CA,1969,131 Garrett Ave,91910,USD,2343,3,5,1,6,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679500,384,Chula Vista,CA,1985,67 3rd Ave,91910,USD,1770,2,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1495000,869,San Diego,CA,1955,5288 Manhasset Dr,92115,USD,1720,4,8,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1649000,465,San Diego,CA,1946,4840 College Ave,92115,USD,3550,5,9,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,559000,459,San Diego,CA,1982,5667 Adobe Falls Rd UNIT C,92120,USD,1217,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,739000,315,Oceanside,CA,2003,1109 Teal Way,92057,USD,2349,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,282,Oceanside,CA,2003,5124 Eliot St,92057,USD,2832,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,426,Oceanside,CA,1973,631 Carillo Cir,92057,USD,1468,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,319,San Diego,CA,2017,1252 Paseo Sea Breeze UNIT 8,92154,USD,2034,4,4,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,799900,372,San Diego,CA,1959,1244 Gaywood St,92154,USD,2152,3,4,1,2,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,525000,320,San Diego,CA,2005,702 Portside Pl,92154,USD,1643,2,2,1,1,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,635000,455,San Diego,CA,1975,1137 Lauriston Dr,92154,USD,1395,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,316,San Diego,CA,2016,933 Thermal Ave,92154,USD,2374,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,643,San Diego,CA,1958,954 Harwood St,92154,USD,1050,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,694000,398,San Diego,CA,1998,1962 Grove Ave,92154,USD,1744,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,381,San Diego,CA,2002,4927 Wheelhouse Dr,92154,USD,2231,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,517,San Diego,CA,1971,3062 Via Papeete,92154,USD,1258,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,381,San Diego,CA,1980,2666 McBurney Ct,92154,USD,1826,3,4,1,0,0,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,697500,322,San Diego,CA,2004,432 Vista San Lucas,92154,USD,2167,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,560000,328,San Diego,CA,1988,1125 Camino Regalado,92154,USD,1708,2,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,885000,330,San Diego,CA,2000,1172 Surfwood Ln,92154,USD,2685,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,585000,316,San Diego,CA,2018,1250 Paseo Sea Grass #120,92154,USD,1853,4,4,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,375000,424,San Diego,CA,1987,1925 Avenida Del Mexico UNIT 151,92154,USD,885,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,799999,416,San Diego,CA,2005,5317 Westport View Dr,92154,USD,1923,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,715000,391,San Diego,CA,1980,1448 Green Bay St,92154,USD,1828,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,330000,413,San Diego,CA,1974,3516 Del Sol Blvd APT E,92154,USD,800,1,2,0,0,0,One,0,0,0,CONDO,San Diego County
+Listed for sale,679900,453,San Diego,CA,1973,1777 Tremaine Way,92154,USD,1500,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,665000,368,San Diego,CA,1963,1752 Halley St,92154,USD,1808,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499999,375,San Diego,CA,2018,5526 Santa Alicia,92154,USD,1334,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,660000,310,San Diego,CA,1970,1525 Standlake St,92154,USD,2130,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,395,Jamul,CA,1991,14149 Jamacha Hills Rd,91935,USD,2276,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999999,341,Jamul,CA,1990,3027 Calle Allejandro,91935,USD,2930,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999870,341,Jamul,CA,1989,14605 Alkosh Rd,91935,USD,2936,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,759000,351,Jamul,CA,1991,13652 Coyote Vista Way,91935,USD,2164,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1899000,316,Jamul,CA,1999,3328 Armagosa Way,91935,USD,6012,7,6,1,7,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,646,Jamul,CA,1999,3312 Alta Loma Dr,91935,USD,1704,3,3,1,6,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,835000,246,Jamul,CA,2020,20530 Bexley Rd,91935,USD,3400,3,3,0,0,0,One,0,1,1,SINGLE_FAMILY,San Diego County
+Listed for sale,3100000,436,Jamul,CA,1998,3456 Wentworth Dr,91935,USD,7103,5,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,879000,327,Jamul,CA,1974,3228 Via Las Faldas,91935,USD,2692,3,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,839000,573,Poway,CA,1975,14561 High Pine St,92064,USD,1464,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1200000,580,Poway,CA,1986,14382 Carnitas St,92064,USD,2068,2,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1699000,453,San Diego,CA,2004,11332 Wild Meadow Pl,92131,USD,3750,5,6,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1127100,498,San Diego,CA,2003,12407 Mesa Vista Pl,92131,USD,2261,3,3,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2175000,602,Poway,CA,1999,11727 Treadwell Dr,92064,USD,3615,4,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,500000,501,Poway,CA,1970,14038 Sycamore Ave,92064,USD,998,1,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1399000,472,Poway,CA,1972,13995 Belvedere Dr,92064,USD,2962,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1395000,539,Poway,CA,1959,15239 Espola Rd,92064,USD,2588,4,5,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1075000,518,Poway,CA,1975,14723 Dash Way,92064,USD,2074,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1799000,357,San Diego,CA,2007,15539 Camden Pl,92131,USD,5039,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,604,Poway,CA,1975,14555 High Pine St,92064,USD,1322,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2100000,389,San Diego,CA,2008,11352 Caspian Pl,92131,USD,5399,6,6,1,4,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,700000,512,Poway,CA,1985,13663 Sycamore Tree Ln,92064,USD,1368,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,2189000,432,San Diego,CA,2008,14364 Elk Grove Ln,92131,USD,5063,6,5,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2300000,443,Poway,CA,1981,12212 Old Stone Rd,92064,USD,5190,5,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1050000,471,Poway,CA,1992,13142 Nelson Ln,92064,USD,2229,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1060000,418,El Cajon,CA,2001,1765 Slate Ter,92019,USD,2538,3,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,429000,470,El Cajon,CA,1991,12020 Calle De Medio UNIT 174,92019,USD,913,1,2,1,1,1,Multi/Split,0,1,0,CONDO,San Diego County
+Listed for sale,729000,413,El Cajon,CA,1977,839 Terrace Crst,92019,USD,1764,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,377,El Cajon,CA,1972,1618 Granite Hills Dr,92019,USD,2055,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,457,El Cajon,CA,1978,1850 Treseder Cir,92019,USD,1750,2,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,635000,644,El Cajon,CA,1986,2409 Royal Saint James Dr,92019,USD,986,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,929000,339,El Cajon,CA,2001,1613 Emerald Point Ct,92019,USD,2740,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,540,El Cajon,CA,1984,2010 Capri Ct,92019,USD,1251,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,739000,489,El Cajon,CA,1975,1382 Craigmont St,92019,USD,1511,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,374,El Cajon,CA,1993,2287 Monarch Ridge Cir,92019,USD,2941,4,5,1,3,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,889000,307,El Cajon,CA,1963,662 El Rancho Dr,92019,USD,2893,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,564,El Cajon,CA,1943,1992 Greenfield Dr,92019,USD,1240,2,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3000000,602,El Cajon,CA,1994,2990 Wildwind Dr,92019,USD,4983,8,6,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799900,514,El Cajon,CA,1986,2542 Royal Saint James Dr,92019,USD,1557,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,515000,508,El Cajon,CA,1958,186 S Ivory Ave,92019,USD,1014,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399000,531,El Cajon,CA,1988,656 Ballard St UNIT 1,92019,USD,752,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,375000,425,El Cajon,CA,1973,1524 Gustavo St UNIT A,92019,USD,882,1,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,999000,401,El Cajon,CA,1985,1949 Sonett St,92019,USD,2493,3,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,414,El Cajon,CA,2005,637 Saint George Dr,92019,USD,1932,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,349995,348,El Cajon,CA,1985,514 Jamacha Rd UNIT 45,92019,USD,1005,1,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,325000,489,El Cajon,CA,1995,12191 Cuyamaca College Dr E UNIT 603,92019,USD,664,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,599000,563,El Cajon,CA,1961,1666 Sandos St,92019,USD,1064,1,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,949000,465,El Cajon,CA,1959,731 Terra Ln,92019,USD,2040,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1250000,262,El Cajon,CA,1974,2237 Euclid Ave,92019,USD,4776,6,6,1,2,1,Three Or More,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2999000,1421,La Jolla,CA,1965,1532 Virginia Way,92037,USD,2110,3,3,1,0,0,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1275000,681,San Diego,CA,2008,4208 Quapaw Ave,92117,USD,1871,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2495000,0,San Diego,CA,1944,818-824 Felspar St,92109,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,7500000,1103,La Jolla,CA,2021,7455 Pepita Way,92037,USD,6800,6,5,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1209900,644,San Diego,CA,1978,5158 Biltmore St,92117,USD,1879,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2650000,1676,La Jolla,CA,1953,2233 Vallecitos,92037,USD,1581,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3480000,969,La Jolla,CA,1961,1160 Via Espana,92037,USD,3590,4,5,1,2,1,One-Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1549000,902,San Diego,CA,1970,2445 Geranium St,92109,USD,1717,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,370000,346,San Diego,CA,1985,5985 Dandridge Ln UNIT 104,92115,USD,1069,2,2,1,1,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,975000,713,San Diego,CA,1947,4769 49th St,92115,USD,1368,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,589,San Diego,CA,1941,4868 Monroe Ave,92115,USD,1273,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1129000,715,San Diego,CA,1942,4690 Natalie Dr,92115,USD,1580,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,538,San Diego,CA,1951,3814 Marron St,92115,USD,1161,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,879000,460,San Diego,CA,1955,5464 Gilbert Dr,92115,USD,1911,3,4,1,1,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,531,San Diego,CA,1939,4754 Lenore Dr,92115,USD,1694,3,4,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,678900,875,San Diego,CA,1956,6830 Amherst St,92115,USD,776,1,2,1,1,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,525,San Diego,CA,1960,4108 Casita Way,92115,USD,1323,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399900,463,San Diego,CA,1970,4070 Wabash Ave APT 2,92104,USD,864,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,950000,692,San Diego,CA,1925,3505 Wilson Ave,92104,USD,1372,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1499000,0,San Diego,CA,2020,4076-4078 Arizona St,92104,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,899000,674,San Diego,CA,1975,4728 Works Pl,92116,USD,1334,3,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,620000,844,San Diego,CA,1987,3645 7th Ave UNIT 406,92103,USD,735,1,2,1,1,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,1100000,828,San Diego,CA,1950,3614 Florida St,92104,USD,1328,2,3,1,1,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1249000,545,San Diego,CA,1989,8170 Rimridge Ln,92126,USD,2293,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,694,San Diego,CA,1973,8862 Covina St,92126,USD,1080,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,612,San Diego,CA,1973,7745 Parkdale Cv,92126,USD,1429,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,810000,614,San Diego,CA,1971,10260 Covina Ct,92126,USD,1320,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,859900,651,San Diego,CA,1971,8541 Ivory Coast Dr,92126,USD,1320,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,879900,747,San Diego,CA,1972,8595 Lepus Rd,92126,USD,1178,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,800000,612,San Diego,CA,1974,8089 Calico St,92126,USD,1308,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,605,San Diego,CA,1972,10988 Avenida Del Gato,92126,USD,1404,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,510000,548,San Diego,CA,1975,10128 Caminito Volar,92126,USD,930,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,925000,381,Chula Vista,CA,2001,760 River Rock Rd,91914,USD,2429,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,500000,460,Chula Vista,CA,1996,2166 Cabo Bahia,91914,USD,1086,2,2,1,2,1,Two,0,0,0,CONDO,San Diego County
+Listed for sale,539000,382,Chula Vista,CA,2006,2203 Huntington Point Rd UNIT 5,91914,USD,1410,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,748000,491,Chula Vista,CA,2002,739 San Juan Pl,91914,USD,1523,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1299000,384,Chula Vista,CA,2007,1932 Corte Cantante,91914,USD,3380,5,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1300000,410,Chula Vista,CA,2005,2192 Corte Anacapa,91914,USD,3173,4,6,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1149000,362,Chula Vista,CA,2004,2242 Corte San Simeon,91914,USD,3173,4,6,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1430000,513,San Diego,CA,1999,11523 Sun Ray Ct,92131,USD,2789,3,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,564,San Diego,CA,1994,9990 Scripps Vista Way UNIT 89,92131,USD,1116,3,2,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,595000,612,San Diego,CA,2000,11886 Cypress Canyon Rd UNIT 1,92131,USD,973,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1598000,524,San Diego,CA,1985,12436 Rue Fountainbleau,92131,USD,3051,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,569900,586,San Diego,CA,1999,11954 Cypress Canyon Rd UNIT 1,92131,USD,973,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1330000,493,San Diego,CA,1990,11414 Larmier Cir,92131,USD,2699,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1300000,514,San Diego,CA,1990,11442 Larmier Cir,92131,USD,2528,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,561,San Diego,CA,2000,11900 Cypress Canyon Rd UNIT 3,92131,USD,1416,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,2350000,525,San Diego,CA,2006,9889 Caminito Pudregal,92131,USD,4477,5,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,438,San Diego,CA,1973,10645 Caminito Memosac,92131,USD,1540,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1325000,522,San Diego,CA,2000,11410 Heartwood Ct,92131,USD,2540,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,0,El Cajon,CA,1965,652 S Johnson Ave,92020,USD,0,0,0,1,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,725000,648,El Cajon,CA,1957,632 Joey Ave,92020,USD,1118,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,979900,393,El Cajon,CA,1993,1660 Grove Rd,92020,USD,2495,4,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,423,El Cajon,CA,1958,1336 Harol St,92020,USD,1534,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649999,516,El Cajon,CA,1955,228 Lindell Ave,92020,USD,1260,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,515000,639,El Cajon,CA,1955,921 Gray Dr,92020,USD,806,1,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,559000,568,El Cajon,CA,1949,1143 Boulevard Pl,92020,USD,984,1,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1020000,490,El Cajon,CA,1972,1107 S Mollison Ave,92020,USD,2082,3,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,432,El Cajon,CA,1960,10957 Horizon Hills Dr,92020,USD,2255,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,319000,395,El Cajon,CA,1985,550 Graves Ave UNIT 6,92020,USD,808,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,800000,490,El Cajon,CA,1975,1173 Rathmoor St,92020,USD,1632,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,880,Coronado,CA,1973,26 Antigua Ct,92118,USD,1534,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1085000,1449,Coronado,CA,1973,1760 Avenida Del Mundo UNIT 301,92118,USD,749,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,3345000,845,Coronado,CA,1987,18 Buccaneer Way,92118,USD,3958,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3250000,930,Coronado,CA,1989,7 Spinnaker Way,92118,USD,3493,4,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4225000,934,Coronado,CA,1982,26 Blue Anchor Cay Rd,92118,USD,4525,5,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1685000,719,Coronado,CA,1990,45 Saint Christophers Ln,92118,USD,2343,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,24000000,3223,Coronado,CA,1887,1144 Isabella Ave,92118,USD,7446,7,8,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4800000,2859,Coronado,CA,2007,1500 Orange Ave #14,92118,USD,1679,3,3,0,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1500000,1674,Coronado,CA,1969,1625 Glorietta Blvd,92118,USD,896,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,4750000,1709,Coronado,CA,2013,815 1st St,92118,USD,2779,4,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,12600000,2086,Coronado,CA,2016,969 Adella Ave,92118,USD,6039,7,5,1,5,1,Three Or More,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,860000,315,Spring Valley,CA,2000,10451 Valley Waters Dr,91978,USD,2733,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,765,Carlsbad,CA,1957,3450 Harding St,92008,USD,1044,1,3,0,0,0,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1490000,777,Carlsbad,CA,1966,3255 Donna Dr,92008,USD,1918,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,765000,389,Carlsbad,CA,1982,2881 Woodridge Cir,92008,USD,1969,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4395000,1302,Carlsbad,CA,2021,191 Cherry Ave,92008,USD,3376,4,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1199000,879,Carlsbad,CA,1963,1790 Andrea Ave,92008,USD,1364,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1399000,780,Carlsbad,CA,1970,1308 Oak Ave,92008,USD,1793,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1495000,573,Oceanside,CA,1988,2385 Fire Mountain Dr,92054,USD,2610,3,4,1,3,1,Multi/Split,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,468,Carlsbad,CA,1984,4012 Layang Layang Cir APT F,92008,USD,1600,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1200000,1073,Carlsbad,CA,1956,910 Palm Ave,92008,USD,1118,2,3,0,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1100000,485,Carlsbad,CA,1991,2928 Wintergreen Dr,92008,USD,2268,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,888000,509,San Diego,CA,2005,13325 Via Sabbia UNIT 6,92129,USD,1743,3,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,999900,518,San Diego,CA,1980,13664 Via Cima Bella,92129,USD,1932,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1049000,579,San Diego,CA,2012,7930 Brooke Vista Ln,92129,USD,1812,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,580,San Diego,CA,2003,7241 Arroyo Grande Rd,92129,USD,2329,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,869999,428,San Diego,CA,2005,13310 Via Bellarado UNIT 5,92129,USD,2033,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,440000,543,San Diego,CA,1971,11010 Via Asti,92129,USD,810,1,2,1,1,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,1650000,459,San Diego,CA,2017,7959 Avenida Tamarindo,92129,USD,3598,5,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,925000,532,San Diego,CA,1980,6626 Tuxedo Rd,92119,USD,1738,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,809000,511,San Diego,CA,1972,7311 Barker Way,92119,USD,1582,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1280000,595,San Diego,CA,1963,6440 Lake Tahoe Cir,92119,USD,2150,2,4,1,2,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1123400,556,San Diego,CA,1982,7314 Basso Ct,92119,USD,2022,3,4,1,6,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3749000,568,Rancho Santa Fe,CA,1984,15779 El Camino Real,92067,USD,6596,6,8,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2399000,645,Rancho Santa Fe,CA,2000,17836 Avenida Amatista,92067,USD,3719,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3799000,685,Rancho Santa Fe,CA,2019,8370 Via Rancho Cielo,92067,USD,5542,6,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2595000,842,Rancho Santa Fe,CA,1961,4919 El Secreto,92067,USD,3083,3,3,1,0,0,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4650000,657,Rancho Santa Fe,CA,1988,6012 San Elijo Ave,92067,USD,7082,8,6,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,5995000,716,Rancho Santa Fe,CA,1996,16978 Circa Del Sur,92067,USD,8377,9,8,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3898000,626,Rancho Santa Fe,CA,2013,14044 Rancho Santa Fe Lakes Dr,92067,USD,6222,7,7,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4695000,611,Rancho Santa Fe,CA,1992,18022 Loma Alegre,92067,USD,7678,6,5,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,9125000,1303,Rancho Santa Fe,CA,2017,17250 Via De Fortuna,92067,USD,7004,7,6,1,4,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,9995000,612,Rancho Santa Fe,CA,2007,16627 Los Morros,92067,USD,16327,9,7,1,6,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2499000,551,Rancho Santa Fe,CA,2002,7762 Calle Amanacer,92067,USD,4535,5,5,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999000,549,Poway,CA,1958,16861 Espola Rd,92064,USD,1821,3,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1599900,595,San Diego,CA,2001,16553 Aldama Ct,92127,USD,2687,3,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599950,442,Poway,CA,1974,13416 Port Marnock Way,92064,USD,1357,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1111000,524,Poway,CA,1978,17126 Pomard Ct,92064,USD,2120,2,4,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,504,San Diego,CA,1988,17953 Avenida Alozdra,92128,USD,1388,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1288800,633,San Diego,CA,1964,17960 Mirasol Dr,92128,USD,2036,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,456,San Diego,CA,1985,11838 Paseo Lucido UNIT 51,92128,USD,1371,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1195000,505,San Diego,CA,1968,17328 Francisco Dr,92128,USD,2366,3,5,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1775000,418,San Diego,CA,1982,18030 Polvera Way,92128,USD,4247,4,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,848300,517,San Diego,CA,2006,16923 New Rochelle Way UNIT 79,92127,USD,1642,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,925000,497,San Diego,CA,1971,17876 Frondoso Dr,92128,USD,1862,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899995,511,San Diego,CA,1990,11954 Corte Tezcuco,92128,USD,1760,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1250000,539,San Diego,CA,1990,18003 Chieftain Ct,92127,USD,2317,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,562,Poway,CA,1974,12805 Pinefield Rd,92064,USD,1421,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1375000,617,Poway,CA,1979,13047 Camino Del Valle,92064,USD,2230,3,3,1,3,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1200000,557,Poway,CA,1980,17216 Vendor Pl,92064,USD,2156,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3600555,217,San Diego,CA,1983,18727 Olmeda Pl,92128,USD,16565,8,6,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1849000,460,Poway,CA,1990,16527 Avenida Florencia,92064,USD,4020,3,5,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,419000,443,San Diego,CA,1973,16425 Caminito Vecinos UNIT 96,92128,USD,946,1,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1060000,586,San Diego,CA,1986,17897 Creciente Way,92127,USD,1808,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1028000,548,San Diego,CA,1973,12797 Calma Ct,92128,USD,1877,2,4,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,741,San Diego,CA,2002,350 K St UNIT 618,92101,USD,673,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,824900,663,San Diego,CA,2002,510 1st Ave #1305,92101,USD,1245,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,429900,604,San Diego,CA,2003,1400 Broadway #1404,92101,USD,712,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,479000,581,San Diego,CA,1985,850 State St UNIT 327,92101,USD,824,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,3599000,1459,San Diego,CA,2004,165 6th Ave UNIT 2704,92101,USD,2466,4,3,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,519000,607,San Diego,CA,2005,427 9th Ave UNIT 705,92101,USD,855,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,3700000,1276,San Diego,CA,1986,700 Front St UNIT 505,92101,USD,2900,3,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,995000,799,San Diego,CA,2004,1580 Union St UNIT 701,92101,USD,1246,2,2,1,2,1,Two,0,0,0,CONDO,San Diego County
+Listed for sale,895000,577,San Diego,CA,1992,650 Columbia St UNIT 218,92101,USD,1550,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,775000,749,San Diego,CA,2004,300 W Beech St UNIT 1409,92101,USD,1035,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,560000,541,San Diego,CA,2005,525 11th Ave UNIT 1204,92101,USD,1036,2,2,1,2,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,325000,373,Escondido,CA,1990,101 S Spruce St UNIT 103,92025,USD,872,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,748900,423,Escondido,CA,1989,1220 Shay Pl,92026,USD,1769,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,495000,352,Escondido,CA,1985,2423 Hawthorn Gln,92027,USD,1406,2,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,444000,330,Escondido,CA,1991,820 E 3rd Ave APT 2,92025,USD,1344,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,540000,536,Escondido,CA,1959,1126 E 5th Ave,92025,USD,1008,1,2,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,320000,370,Escondido,CA,1981,2094 E Grand Ave UNIT 47,92027,USD,864,1,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,894000,264,Escondido,CA,2007,2905 Burnet Dr,92027,USD,3382,4,5,1,3,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,325000,339,Escondido,CA,1981,2041 E Grand Ave UNIT 20,92027,USD,959,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1200000,355,Escondido,CA,1991,1558 Dublin Ln,92027,USD,3376,4,4,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,210,Escondido,CA,1990,2215 Puesta Del Sol,92027,USD,4293,5,3,1,3,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,829999,542,San Diego,CA,1958,3017 Melbourne Dr,92123,USD,1531,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,859000,622,San Diego,CA,1959,8853 Heraldry St,92123,USD,1381,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,586,San Diego,CA,1958,8511 Neva Ave,92123,USD,1356,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,999000,461,San Diego,CA,1999,2908 W Canyon Ave,92123,USD,2166,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,553,San Diego,CA,1958,3012 Larkin Pl,92123,USD,1536,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,754,San Diego,CA,1960,2217 Cardinal Dr,92123,USD,1060,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,531,San Diego,CA,1998,9683 Stonecrest Blvd,92123,USD,1411,3,2,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850900,607,San Diego,CA,2018,2756 Via Alta Pl,92123,USD,1401,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,699900,778,San Diego,CA,1958,8441 Macawa Ave,92123,USD,900,1,4,0,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,525900,378,Chula Vista,CA,1974,246 Rancho Dr UNIT B,91911,USD,1392,2,4,0,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,410000,408,San Diego,CA,2005,780 Castaway Cv,92154,USD,1006,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,650000,433,Chula Vista,CA,1959,3934 Date Ct,91911,USD,1500,2,3,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,0,Chula Vista,CA,1945,366-372 Date St,91911,USD,0,0,0,1,0,0,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,739900,347,San Diego,CA,2016,4842 Fantail Pl,92154,USD,2135,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,339000,210,Jacumba,CA,2005,44725 El Centro Ave,91934,USD,1616,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,335000,536,San Diego,CA,1996,6666 Beadnell Way UNIT 18,92117,USD,625,1,1,0,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,621900,598,San Diego,CA,1974,2727 Morena Blvd UNIT 104,92117,USD,1040,2,2,1,2,0,0,1,1,0,CONDO,San Diego County
+Listed for sale,789000,775,San Diego,CA,1962,4502 Lyric Ln,92117,USD,1018,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,740,San Diego,CA,1981,3743 Balboa Ter UNIT D,92117,USD,1147,2,2,1,1,1,Three Or More,1,1,0,TOWNHOUSE,San Diego County
+Listed for sale,875000,556,San Diego,CA,1965,3580 Merrimac Ave,92117,USD,1573,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1499000,1014,San Diego,CA,1969,3691 Vista De La Bahia,92117,USD,1478,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,819000,624,San Diego,CA,1953,4573 Cochise Way,92117,USD,1312,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,900000,703,San Diego,CA,1959,5049 Mount Gaywas Dr,92117,USD,1281,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,324000,536,San Diego,CA,1994,6750 Beadnell Way UNIT 17,92117,USD,605,1,1,1,0,0,Two,0,0,0,CONDO,San Diego County
+Listed for sale,625000,381,San Marcos,CA,1966,962 Buena Creek Rd,92069,USD,1642,3,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,510,San Marcos,CA,1998,1775 Turnberry Dr,92069,USD,1762,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,825000,523,San Marcos,CA,1976,1860 Amie Ct,92069,USD,1578,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,825000,0,San Marcos,CA,1972,782-84 Vineyard Rd,92069,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,615000,513,San Marcos,CA,1977,222 Roma Ave,92069,USD,1200,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,260000,441,San Marcos,CA,1980,3427 Capalina Rd APT 27,92069,USD,589,1,1,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1050000,362,San Marcos,CA,2000,694 Feather Dr,92069,USD,2902,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799995,351,San Marcos,CA,1977,1063 Janet Pl,92069,USD,2280,2,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,425000,398,San Marcos,CA,1981,582 Beverly Pl,92078,USD,1068,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,999999,344,Escondido,CA,1975,28548 Mountain Meadow Rd,92026,USD,2905,5,3,1,4,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,439900,415,San Marcos,CA,1980,1657 Rue De Valle,92078,USD,1060,2,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,749900,288,Escondido,CA,2004,10236 Spruce Woodlands Way,92026,USD,2601,3,3,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,974000,366,Escondido,CA,1993,2073 Woodland Heights Gln,92026,USD,2660,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1625000,607,San Diego,CA,1949,2305 Hartford St,92110,USD,2678,3,2,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,566,San Diego,CA,1980,5957 Gaines St,92110,USD,1058,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,995000,0,San Diego,CA,1952,2290 Congress St,92110,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,749900,593,San Diego,CA,1993,3928 Conde St #2,92110,USD,1264,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649950,455,San Diego,CA,1989,5895 Friars Rd APT 5401,92110,USD,1430,2,3,1,0,0,One,1,1,0,CONDO,San Diego County
+Listed for sale,2600000,620,San Diego,CA,2010,1801 Illion St,92110,USD,4196,5,6,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,949000,298,Chula Vista,CA,2005,1477 Trailwood Ave,91913,USD,3181,4,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,585000,386,Chula Vista,CA,2006,2145 Caminito Leonzio UNIT 6,91915,USD,1515,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,780900,417,Chula Vista,CA,2004,1355 Vallejo Mills St,91913,USD,1873,3,4,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,769900,333,Chula Vista,CA,2005,2216 Caminito Pienza,91915,USD,2310,3,4,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,449000,479,Chula Vista,CA,1987,730 Eastshore Ter UNIT 3,91913,USD,937,3,2,1,1,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,699000,342,Chula Vista,CA,2019,1825 Mint Ter #1,91915,USD,2046,4,4,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,850000,339,Chula Vista,CA,2001,1551 Pleasanton Rd,91913,USD,2507,3,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,550000,324,Chula Vista,CA,2004,2707 Persimmon Ct,91915,USD,1697,4,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,475000,417,Chula Vista,CA,2002,2025 Azure Cv UNIT 4,91915,USD,1139,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,615000,371,Chula Vista,CA,2014,2185 Caminito Novara #3,91915,USD,1656,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1012000,355,Chula Vista,CA,2004,1655 View Park Way,91913,USD,2849,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749900,481,Chula Vista,CA,2004,1251 Jamestown Dr,91913,USD,1559,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679999,436,Chula Vista,CA,2004,1952 Geyserville St,91913,USD,1559,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,479900,453,Chula Vista,CA,2005,1811 Calvedos Dr,91913,USD,1060,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1099900,427,Chula Vista,CA,1998,2393 Green River Dr,91915,USD,2578,3,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679000,554,Chula Vista,CA,1998,1542 Shoreacres Dr,91915,USD,1226,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,785000,419,Chula Vista,CA,2004,1325 Escalon Pl,91913,USD,1873,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,473,Chula Vista,CA,2000,1067 Grass Valley Rd,91913,USD,1477,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,439000,398,El Cajon,CA,1985,1111 Decker St UNIT C,92019,USD,1104,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,510000,483,San Diego,CA,1993,18630 Caminito Cantilena UNIT 299,92128,USD,1056,2,2,1,1,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,749990,345,San Diego,CA,1930,6140 Wunderlin Ave,92114,USD,2172,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699900,425,San Diego,CA,1948,851 60th St,92114,USD,1645,2,4,0,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,464,San Diego,CA,1960,5677 Division St,92114,USD,1399,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,525000,425,San Diego,CA,2007,6368 Akins Ave,92114,USD,1235,4,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,535000,0,San Diego,CA,1958,5920-5922 Linnet St,92114,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,725000,432,San Diego,CA,1981,7385 Peter Pan Ave,92114,USD,1680,3,4,1,0,0,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,0,San Diego,CA,1958,1214-16 Wren St,92114,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,619300,364,San Diego,CA,1962,118 Old Oak Dr,92114,USD,1700,3,4,1,2,0,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,359,Chula Vista,CA,2008,1315 N Echo Ridge Way,91915,USD,3764,5,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,495000,476,Chula Vista,CA,2002,2539 Garnet Peak Rd,91915,USD,1039,2,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,999900,296,Chula Vista,CA,2005,2777 Rambling Vista Rd,91915,USD,3381,5,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,529900,469,Chula Vista,CA,2002,1302 Pinnacle Peak Dr,91915,USD,1131,3,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,950000,334,Chula Vista,CA,2000,2265 Green River Dr,91915,USD,2846,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,975000,307,Chula Vista,CA,2002,2550 Fern Valley Rd,91915,USD,3175,3,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,635000,485,Chula Vista,CA,2004,2772 Bear Valley Rd,91915,USD,1310,3,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1850000,523,Carlsbad,CA,2004,2150 Twain Ave,92008,USD,3535,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,735000,384,Carlsbad,CA,1976,4718 Amberwood Ct,92008,USD,1916,3,3,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,2200000,651,Carlsbad,CA,1959,3275 Meadowlark Ln,92008,USD,3380,4,5,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1107000,587,Carlsbad,CA,1963,1801 Ratcliff Rd,92008,USD,1885,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3750000,779,Carlsbad,CA,1981,3819 Skyline Rd,92008,USD,4812,6,5,1,2,1,Three Or More,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1495000,997,San Diego,CA,1950,4946 W Mountain View Dr,92116,USD,1500,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899900,877,San Diego,CA,1926,4616 36th St,92116,USD,1026,1,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,774900,936,San Diego,CA,1930,3204 Madison Ave,92116,USD,828,2,2,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1600000,537,San Diego,CA,1951,4748 Panorama Dr,92116,USD,2982,3,3,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1300000,524,San Diego,CA,1926,4774 Oregon St,92116,USD,2479,0,0,1,1,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1199000,736,San Diego,CA,1909,4656 Georgia St,92116,USD,1630,3,3,1,1,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199950,1049,San Diego,CA,1920,4734 Panorama Dr,92116,USD,1144,1,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1550000,945,San Diego,CA,1950,4860 W Alder Dr,92116,USD,1640,2,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1399000,843,San Diego,CA,1922,4764 Hawley Blvd,92116,USD,1660,3,4,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,399000,905,San Diego,CA,1926,4587 Campus Ave,92116,USD,441,1,1,0,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1450000,747,San Diego,CA,1948,4891 E Alder Dr,92116,USD,1941,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1399000,0,San Diego,CA,1922,4764-66 Hawley Blvd,92116,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,3200000,1023,Solana Beach,CA,1973,766 Ocean Surf Dr,92075,USD,3128,5,4,1,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,3300000,975,Solana Beach,CA,1974,519 S Nardo Ave,92075,USD,3384,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1785000,1007,Solana Beach,CA,1968,618 Sonrisa St,92075,USD,1773,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,764,Solana Beach,CA,1975,1373 Camino Teresa,92075,USD,1964,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2799000,782,Solana Beach,CA,1971,1422 San Ignacio,92075,USD,3578,6,5,1,3,1,Multi/Split,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3250000,1113,Solana Beach,CA,1966,415 Hilmen Pl,92075,USD,2920,4,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1299900,914,Solana Beach,CA,1975,429 S Sierra Ave UNIT 132,92075,USD,1422,3,2,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,2200000,843,Solana Beach,CA,1975,1463 Santa Marta Ct,92075,USD,2609,3,5,1,2,1,Two,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4099000,2181,Solana Beach,CA,1967,364 Pacific Ave,92075,USD,1879,3,4,1,1,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1250000,784,Solana Beach,CA,1975,1355 Camino Teresa,92075,USD,1594,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,613000,245,Bonsall,CA,1971,32 Via Casitas,92003,USD,2500,2,3,1,2,1,Multi/Split,1,1,0,CONDO,San Diego County
+Listed for sale,1348747,429,Bonsall,CA,1981,6565 Via De La Reina,92003,USD,3142,4,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,349000,397,Bonsall,CA,1988,31916 Del Cielo Este APT 3,92003,USD,878,1,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,305000,484,Bonsall,CA,1988,31940 Del Cielo Este UNIT B1,92003,USD,630,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1099990,289,Bonsall,CA,1991,5622 Lake Vista Dr,92003,USD,3800,3,5,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1480000,763,Bonsall,CA,1976,31725 Rancho Amigos Rd,92003,USD,1940,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1750000,517,Bonsall,CA,1974,30410 Calle La Reina,92003,USD,3386,4,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,879000,338,Escondido,CA,2002,3221 Oak Wood Ln,92027,USD,2604,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1187000,344,Escondido,CA,2012,2629 Morning Terrace Gln,92027,USD,3447,3,3,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,499,Escondido,CA,1977,3060 Pecan Pl,92027,USD,1200,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599900,379,Escondido,CA,1969,1044 Thomas Way,92027,USD,1584,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,615000,461,Escondido,CA,1971,1056 Paula Way,92027,USD,1334,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2499900,548,Poway,CA,2005,12920 Glen Circle Rd,92064,USD,4560,5,4,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,425000,299,Julian,CA,2005,17340 Iron Springs Rd,92036,USD,1420,2,2,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,445000,376,Julian,CA,2005,829 Hillside Dr,92036,USD,1184,2,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,619000,341,Julian,CA,2021,0 Firewater Trl LOT 401,92036,USD,1814,2,4,1,2,1,One,0,1,1,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,325,Julian,CA,1945,1193 Banner Rd,92036,USD,2000,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1595000,424,Pala,CA,2002,12421 Rancho Heights Rd,92059,USD,3759,4,4,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,589000,708,San Diego,CA,1978,2282 Caminito Pajarito UNIT 155,92107,USD,832,1,2,1,1,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,599000,565,San Diego,CA,1980,5765 Friars Rd UNIT 177,92110,USD,1060,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1500000,345,Descanso,CA,1993,24485 Viejas Grade Rd,91916,USD,4350,4,4,1,12,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1150000,390,Poway,CA,1990,15737 Quiet Valley Ln,92064,USD,2949,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1980000,523,Poway,CA,1990,15484 Markar Rd,92064,USD,3783,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2300000,443,Poway,CA,1981,12212 Old Stone Rd,92064,USD,5190,5,8,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,768300,567,Chula Vista,CA,1960,287 Inkopah St,91911,USD,1355,2,3,1,2,1,0,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,725000,410,Chula Vista,CA,1971,1286 Waxwing Ln,91911,USD,1767,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,367,Chula Vista,CA,1949,28 L St,91911,USD,2045,4,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,875000,347,Chula Vista,CA,2000,110 Orange Dr,91911,USD,2518,3,5,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,349000,375,Chula Vista,CA,1978,308 Rancho Dr UNIT D,91911,USD,930,1,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,580000,558,Chula Vista,CA,1960,147 E Oxford St,91911,USD,1040,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,387,Chula Vista,CA,1960,916 Melrose Ave,91911,USD,2062,3,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,440,Chula Vista,CA,1969,1119 Monterey Ave,91911,USD,1474,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,450000,290,Chula Vista,CA,1976,261 Rancho Ct UNIT D,91911,USD,1550,2,4,1,0,0,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,749900,483,Chula Vista,CA,1972,1286 Sonoma Ct,91911,USD,1554,2,4,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,829900,351,Chula Vista,CA,1960,1201 Nolan Ave,91911,USD,2365,3,5,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,759000,434,Chula Vista,CA,1955,967 Cuyamaca Ave,91911,USD,1749,2,4,0,0,0,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,402,Chula Vista,CA,1974,1568 Skylark Way,91911,USD,2116,3,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,661,Chula Vista,CA,1950,421 Naples St,91911,USD,1284,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,332,Chula Vista,CA,1951,1345 4th Ave,91911,USD,2260,3,4,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,343900,382,Chula Vista,CA,1970,285 Moss St UNIT 40,91911,USD,900,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,499900,74,Chula Vista,CA,2020,874 Ada St,91911,USD,6773,2,4,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,403,Chula Vista,CA,1959,1191 Myra Ave,91911,USD,2108,4,6,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,715000,310,Lakeside,CA,1960,10857 Oak Creek Dr,92040,USD,2309,3,3,1,0,0,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,383,Lakeside,CA,2015,11941 Rocoso Rd,92040,USD,2024,3,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,682,Lakeside,CA,1969,13555 E Lakeview Rd,92040,USD,1100,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,350,Lakeside,CA,2007,12055 Promise Ln,92040,USD,2570,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,339000,380,Lakeside,CA,1990,12720 Laurel St UNIT 210,92040,USD,891,1,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,999000,0,Lakeside,CA,1972,9059-61 Creekford Dr,92040,USD,0,0,0,0,0,0,Two,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,599000,498,Lakeside,CA,1962,8670 Golden Ridge Rd,92040,USD,1204,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649000,593,Lakeside,CA,1958,12327 Lemon Crest Dr,92040,USD,1094,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,699000,453,Lakeside,CA,1960,8539 Amato Dr,92040,USD,1542,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,759000,416,Lakeside,CA,1946,9018 Winter Gardens Blvd,92040,USD,1825,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,629000,551,Lakeside,CA,1950,11763 Eucalyptus Hills Dr,92040,USD,1142,1,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,679000,485,Lakeside,CA,1999,13373 Morning Glory Dr,92040,USD,1400,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599990,377,Lakeside,CA,2015,13210 Midnight Star Way,92040,USD,1592,3,3,1,2,1,Two,0,0,0,CONDO,San Diego County
+Listed for sale,3700000,1966,Lakeside,CA,2005,13863 Highway 67,92040,USD,1882,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,572,Lakeside,CA,1933,10798 Oak Creek Dr,92040,USD,872,2,2,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,314,Lakeside,CA,1939,12728 Casa Vista Rd,92040,USD,2150,2,3,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,777777,361,Lakeside,CA,1977,13386 Scotsman Rd,92040,USD,2152,3,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,670000,439,Lakeside,CA,1955,9704 Erwin Ln,92040,USD,1526,2,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,700000,538,Lakeside,CA,1989,9243 Sinsonte Ln,92040,USD,1302,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,825000,379,Lakeside,CA,2008,13049 Laurel Canyon Rd,92040,USD,2174,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,949000,501,San Diego,CA,1970,7770 Forrestal Rd,92120,USD,1896,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1675000,520,San Diego,CA,1991,6354 Caminito Tenedor,92120,USD,3219,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,365000,320,San Diego,CA,1970,6775 Alvarado Rd UNIT 20,92120,USD,1139,2,2,1,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1399000,466,San Diego,CA,1972,6273 Camino Corto,92120,USD,3000,4,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,297000,449,San Diego,CA,1979,6725 Mission Gorge Rd UNIT 107B,92120,USD,662,1,1,0,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1450000,466,San Diego,CA,2004,6356 Camino Largo,92120,USD,3112,3,3,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,597,San Diego,CA,1960,5711 Lancaster Dr,92120,USD,2260,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1175000,468,San Diego,CA,1966,5924 Lance St,92120,USD,2510,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,400,Chula Vista,CA,2003,1277 Whitewing Pl,91913,USD,2249,3,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,269,Chula Vista,CA,2011,1641 Jones St,91913,USD,2883,4,5,1,2,1,Three Or More,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,850000,300,Chula Vista,CA,2013,1587 Stow Grove Ave,91913,USD,2834,4,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,381,Chula Vista,CA,2019,1424 Santa Victoria Rd #5,91913,USD,1573,4,4,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,675000,300,Chula Vista,CA,2007,1813 Olive Green St,91913,USD,2253,3,4,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,749000,302,Chula Vista,CA,2018,1720 Santa Ivy Ave,91913,USD,2477,4,5,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,700000,320,Chula Vista,CA,2018,1712 Santa Ivy Ave,91913,USD,2189,4,4,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,745000,494,Chula Vista,CA,1968,907 Scripps Ave,91913,USD,1508,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,367,Chula Vista,CA,2018,1079 Calle Deceo,91913,USD,2315,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,579900,335,Chula Vista,CA,2005,1895 Caminito Treviana,91913,USD,1730,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,899000,390,Chula Vista,CA,1987,668 Canyon Dr,91913,USD,2304,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,385,Chula Vista,CA,2019,1310 Camino Carmelo,91913,USD,1950,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,274,Fallbrook,CA,1987,235 W Kalmia St,92028,USD,5472,0,0,1,0,0,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,539000,447,Fallbrook,CA,1984,381 Shady Glen Dr,92028,USD,1207,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,393,Fallbrook,CA,1989,1081 Avenida Campana,92028,USD,1523,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,413,Fallbrook,CA,1979,925 Rodeo Queen Dr,92028,USD,1449,2,3,1,2,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,650000,0,Fallbrook,CA,1957,101-11 W Kalmia St,92028,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,519000,430,Fallbrook,CA,1949,522 S Pico Ave,92028,USD,1206,1,2,1,0,0,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,625000,392,Fallbrook,CA,1967,246 Woodcrest Ln,92028,USD,1593,0,0,0,0,0,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,774995,415,Fallbrook,CA,1988,290 N Old Hill Rd,92028,USD,1866,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,400000,484,Oceanside,CA,1973,3697 Mira Pacific Dr,92056,USD,827,1,2,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,400000,484,Oceanside,CA,1973,3590 Nina St,92056,USD,827,1,2,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,729000,433,Oceanside,CA,1988,5139 Baywood Cir,92056,USD,1684,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,828888,377,Oceanside,CA,1994,1594 Avenida Guillermo,92056,USD,2196,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,739000,563,Oceanside,CA,1977,2531 Bradley St,92056,USD,1313,2,3,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,475000,574,Oceanside,CA,1973,3558 Santa Maria St,92056,USD,827,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,399,Oceanside,CA,1989,3354 Tournament Dr,92056,USD,2126,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,825000,518,Oceanside,CA,1991,4950 Poseidon Way,92056,USD,1592,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,715000,447,Oceanside,CA,1988,1833 Via Quinto,92056,USD,1599,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199999,400,Oceanside,CA,1998,5175 Berryessa St,92056,USD,3000,3,5,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,795000,410,Oceanside,CA,1989,2076 Wedgewood Dr,92056,USD,1938,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,499000,419,Oceanside,CA,1975,3692 Harvard Dr,92056,USD,1190,2,2,1,2,1,Two,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,920000,345,Oceanside,CA,1997,5055 Palmera Dr,92056,USD,2664,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,897000,412,Oceanside,CA,1997,4923 Lassen Dr,92056,USD,2177,3,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,710000,499,Oceanside,CA,1978,3177 Camarillo Ave,92056,USD,1423,2,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,450000,540,Oceanside,CA,1979,4766 Jasmine St,92056,USD,834,1,2,1,1,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,695000,437,Oceanside,CA,1979,1919 Radford St,92056,USD,1591,2,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,829000,451,Oceanside,CA,1999,1279 Cottonwood Dr,92056,USD,1839,3,4,1,2,1,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,869000,336,Oceanside,CA,1991,3620 Via Alicia,92056,USD,2585,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,775000,543,Oceanside,CA,1971,4142 Alana Cir,92056,USD,1427,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,520,Oceanside,CA,1972,2867 College Blvd,92056,USD,1152,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849900,480,Oceanside,CA,2018,1269 Via Candelas,92056,USD,1771,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1150000,243,Escondido,CA,1987,9505 Meadow Mesa Dr,92026,USD,4728,6,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,599000,491,Escondido,CA,2003,29734 Williams Valley Ct,92026,USD,1220,2,2,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1150000,294,Escondido,CA,1980,27735 Rosecrest Dr,92026,USD,3914,3,4,1,4,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899900,438,Escondido,CA,1976,25527 Rua Michelle,92026,USD,2055,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1049900,268,Escondido,CA,2004,10341 Pinion Trl,92026,USD,3920,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899900,364,Escondido,CA,1986,10551 Cerveza Dr,92026,USD,2472,2,4,1,3,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,675000,495,Escondido,CA,1970,635 Terrace Ave,92026,USD,1364,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,720000,307,Escondido,CA,1997,8719 Verna Dr,92026,USD,2346,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549000,358,Escondido,CA,1983,8629 Circle R Valley Ln,92026,USD,1534,2,3,1,2,1,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1559000,598,San Diego,CA,1987,13282 Capstone Dr,92130,USD,2605,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1549999,632,San Diego,CA,1995,5060 Brookburn Dr,92130,USD,2451,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,530000,557,San Diego,CA,1985,12237 Carmel Vista Rd UNIT 261,92130,USD,951,1,1,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1424900,650,San Diego,CA,2003,13568 Foxglove Way,92130,USD,2191,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,924999,694,San Diego,CA,1988,12416 Caminito Mira Del Mar,92130,USD,1333,3,3,1,2,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1800000,550,San Diego,CA,1988,4540 Falcon Ridge Ct,92130,USD,3273,3,6,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,715000,574,San Diego,CA,2006,3887 Pell Pl UNIT 103,92130,USD,1246,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1499900,639,San Diego,CA,2016,13563 Morado Trl,92130,USD,2348,3,4,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1787000,592,San Diego,CA,1997,5134 Vail Creek Ct,92130,USD,3020,3,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,969000,632,San Diego,CA,1997,12529 El Camino Real UNIT D,92130,USD,1533,3,3,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1350000,647,San Diego,CA,1996,5270 Caminito Exquisito,92130,USD,2087,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,4500000,914,San Diego,CA,2019,5356 Aurora Summit Trl,92130,USD,4922,6,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3850000,548,San Diego,CA,2005,13990 Rancho Solana Trl,92130,USD,7020,6,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,703900,741,San Diego,CA,1992,3605 Bernwood Pl UNIT 76,92130,USD,950,2,2,1,1,0,0,1,1,0,CONDO,San Diego County
+Listed for sale,1099900,717,San Diego,CA,1998,12615 El Camino Real E,92130,USD,1533,3,3,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1449900,576,San Diego,CA,2019,4238 4th Ave,92103,USD,2516,4,5,1,2,1,Three Or More,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,1275000,616,San Diego,CA,1976,420 Sloane St,92103,USD,2069,2,3,1,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,710000,965,San Diego,CA,1932,1508 Harvey Milk St,92103,USD,736,1,2,1,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,720000,576,San Diego,CA,1990,3450 3rd Ave UNIT 505,92103,USD,1250,2,2,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1595000,843,San Diego,CA,2005,3054 N Arroyo Dr,92103,USD,1892,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1199950,767,San Diego,CA,2006,3788 Park Blvd APT 1,92103,USD,1565,2,2,1,3,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,729900,0,San Diego,CA,1922,4158 1/2 40th St,92105,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,1000000,0,San Diego,CA,1950,4208 Van Dyke Ave,92105,USD,0,0,0,1,3,1,0,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,560000,676,San Diego,CA,1980,3870 37th St APT 1,92105,USD,828,2,2,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,419999,391,San Diego,CA,2000,3562 Marlborough Ave UNIT 11,92105,USD,1075,2,3,0,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,1095000,0,San Diego,CA,1947,3764 Menlo Ave,92105,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,385000,394,San Diego,CA,1982,2844 47th St,92105,USD,976,2,2,1,0,0,Two,0,1,0,CONDO,San Diego County
+Listed for sale,1095000,0,San Diego,CA,1921,4451 Dwight St,92105,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,550000,694,San Diego,CA,1924,3846 46th St,92105,USD,792,1,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,549999,809,San Diego,CA,1950,2523 Tuberose St,92105,USD,680,1,2,0,0,0,Multi/Split,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,589000,736,Del Mar,CA,1978,13655 Ruette Le Parc UNIT D,92014,USD,800,1,1,1,1,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,3200000,1172,Del Mar,CA,1959,328-330 9th St,92014,USD,2730,3,5,1,4,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,6950000,2983,Del Mar,CA,2015,139 27th St,92014,USD,2330,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2600000,839,Del Mar,CA,1965,1155 Highland Dr,92014,USD,3099,3,4,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,16000000,6689,Del Mar,CA,1958,2050 Ocean Front,92014,USD,2392,5,5,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1850000,461,Del Mar,CA,2004,13804 Recuerdo Dr,92014,USD,4010,3,5,1,2,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,9500000,1919,Del Mar,CA,2004,215 10th St,92014,USD,4950,4,5,1,0,0,Two,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1893000,486,Del Mar,CA,2000,3467 Caminito Santa Fe Downs,92014,USD,3893,4,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3595000,1028,Del Mar,CA,1975,2042 De Mayo Rd,92014,USD,3498,3,3,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3850000,1045,Del Mar,CA,1977,2285 El Amigo Rd,92014,USD,3684,5,4,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3995000,1035,Del Mar,CA,1995,2122 Del Mar Heights Rd,92014,USD,3859,5,4,1,2,1,Three Or More,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,649900,288,Valley Center,CA,1971,29787 Valley Stream Rd,92082,USD,2259,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2250000,269,Valley Center,CA,2009,19450 Paradise Mountain Rd,92082,USD,8357,7,5,1,5,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,0,0,Valley Center,CA,2021,Coming Soon Plan,92082,USD,0,0,0,0,0,0,0,0,0,1,SINGLE_FAMILY,San Diego County
+Listed for sale,1350000,386,Valley Center,CA,2005,27119 Silver Berry Way,92082,USD,3498,4,5,1,4,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,989000,328,Valley Center,CA,2003,13737 Sage Meadow Ln,92082,USD,3012,3,4,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,925000,261,Valley Center,CA,2004,27376 Saint Andrews Ln,92082,USD,3546,4,4,1,4,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,874900,257,Valley Center,CA,2015,14188 Winged Foot Cir,92082,USD,3400,4,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,799000,1098,Valley Center,CA,1987,11138 Calle Oro Verde,92082,USD,728,1,1,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2475000,450,Valley Center,CA,1997,14490 Ridge Ranch Rd,92082,USD,5494,4,4,1,4,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,750000,353,Valley Center,CA,1989,29341 Wilkes Rd,92082,USD,2122,3,3,1,3,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2895000,537,Valley Center,CA,1980,9363 Old Castle Rd,92082,USD,5391,4,5,1,2,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,899000,288,Valley Center,CA,2000,15674 Viking Grove Ln,92082,USD,3119,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,929000,375,Valley Center,CA,2002,12115 Fry Ln,92082,USD,2476,3,4,1,3,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1099000,369,Valley Center,CA,1991,12494 Palos Tierra Rd,92082,USD,2979,3,4,1,3,1,One,1,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,898000,372,Valley Center,CA,2013,15213 Molly Anne Ct,92082,USD,2417,3,3,1,3,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1500000,742,San Diego,CA,1959,4520 Carmelo St,92107,USD,2021,2,3,1,2,1,One,0,0,0,SINGLE_FAMILY,San Diego County
+Listed for sale,920000,0,Imperial Beach,CA,1958,1283 12th St,91932,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,849000,492,Imperial Beach,CA,1992,1087 7th St,91932,USD,1727,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,769000,296,San Diego,CA,1957,2920 Iris Ave,92154,USD,2600,3,4,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,370000,411,Chula Vista,CA,1972,1750 Regency Way UNIT A,91911,USD,900,1,2,1,0,0,One,0,1,0,TOWNHOUSE,San Diego County
+Listed for sale,999000,714,Pauma Valley,CA,0,17315 Highway 76,92061,USD,1400,1,2,0,0,0,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,998000,528,San Marcos,CA,2002,1528 Black Walnut Dr,92078,USD,1889,3,3,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1029000,591,San Marcos,CA,1981,1554 Via Brisa Del Lago,92078,USD,1740,2,3,1,2,1,One,0,1,0,CONDO,San Diego County
+Listed for sale,1359000,432,San Marcos,CA,2000,2155 Goya Pl,92078,USD,3143,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,639000,453,San Marcos,CA,2005,2154 Silverado St,92078,USD,1410,3,2,1,2,1,Three Or More,0,1,0,CONDO,San Diego County
+Listed for sale,1195000,346,San Marcos,CA,2005,1893 Shadetree Dr,92078,USD,3452,5,5,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,849000,404,San Marcos,CA,1965,1426 La Linda Dr,92078,USD,2100,2,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2495000,944,San Diego,CA,2021,3434 Jennings St,92106,USD,2642,4,4,1,0,0,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,429000,409,La Mesa,CA,1965,4750 70th St UNIT 2,91942,USD,1050,1,2,1,1,1,Two,0,1,0,CONDO,San Diego County
+Listed for sale,599000,648,La Mesa,CA,1952,4608 70th St,91942,USD,924,2,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,825000,439,La Mesa,CA,1961,5113 Guava Ave,91942,USD,1880,4,5,0,0,0,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2299000,967,San Diego,CA,2017,4056 Haines St,92109,USD,2377,4,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2250000,1172,San Diego,CA,1962,5022 Pacifica Dr,92109,USD,1920,2,3,1,2,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,929000,791,San Diego,CA,2008,924 Hornblend St UNIT 301,92109,USD,1174,2,2,1,2,1,One,0,0,0,CONDO,San Diego County
+Listed for sale,1399999,708,San Diego,CA,2010,4008 Honeycutt St,92109,USD,1977,3,3,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2825000,1932,San Diego,CA,2006,706 Tangiers Ct,92109,USD,1462,3,4,1,1,1,Three Or More,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1795000,0,San Diego,CA,1937,3949-3949 Mission Blvd #3953,92109,USD,0,0,0,0,0,0,One,0,0,0,MULTI_FAMILY,San Diego County
+Listed for sale,600000,487,San Diego,CA,1992,17161 Alva Rd UNIT 3323,92127,USD,1232,2,3,0,0,0,One,0,1,0,CONDO,San Diego County
+Listed for sale,2990000,532,San Diego,CA,2015,16584 Newcomb St,92127,USD,5620,7,6,1,2,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1145000,542,San Diego,CA,2006,10487 Paseo De Linda,92127,USD,2112,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1545000,558,San Diego,CA,2008,15857 Paseo Del Sur,92127,USD,2771,3,4,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2199000,466,San Diego,CA,2004,14575 Arroyo Hondo,92127,USD,4715,4,6,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2895000,628,San Diego,CA,2009,8256 The Landing Way,92127,USD,4613,6,4,1,4,1,One,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,3000000,496,San Diego,CA,2004,17059 Broken Bow Ct,92127,USD,6050,6,7,1,3,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,1249000,578,San Diego,CA,1970,11250 Calenda Rd,92127,USD,2160,3,4,1,2,1,Two,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2350000,526,San Diego,CA,2002,17029 Castello Cir,92127,USD,4466,5,4,1,4,1,One,0,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,2599000,644,San Diego,CA,2006,8176 Pale Moon Rd,92127,USD,4033,5,4,1,3,1,Two,1,1,0,SINGLE_FAMILY,San Diego County
+Listed for sale,395000,442,Boulevard,CA,1939,2504 Live Oak Trl #0,91905,USD,893,2,2,1,1,1,One,0,1,0,SINGLE_FAMILY,San Diego County
